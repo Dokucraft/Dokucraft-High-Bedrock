@@ -1,0 +1,25 @@
+{
+  "namespace": "common",
+
+"compact_close_button@close_button": {
+    "size": [ 15, 15 ],
+    "$close_button_panel_size|default": [ 15, 15 ],
+    "controls": [
+      {
+        "default@common.close_button_panel": {
+          "$close_button_texture": "textures/ui/close_button_default_compact"
+        }
+      },
+      {
+        "hover@common.close_button_panel": {
+          "$close_button_texture": "textures/ui/close_button_hover_compact"
+        }
+      },
+      {
+        "pressed@common.close_button_panel": {
+          "$close_button_texture": "textures/ui/close_button_pressed_compact"
+        }
+      }
+    ]
+  }
+}

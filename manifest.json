@@ -1,0 +1,18 @@
+{
+  "header" : {
+    "version" : [ 1, 1, 5 ],
+		"description" : "\u00A79High and Dry \n\u00A76By Dokucraft TSC",
+        "name" : "High",
+		"uuid" : "38673811-a6f5-4ff5-bea8-708a9c39385b",
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+			"version" : [ 1, 1, 5 ],
+			"description" : "\u00A79High and Dry \n\u00A76By Dokucraft TSC",
+            "type" : "resources",
+            "uuid" : "17304f53-2663-424f-8eac-550de56d4e3a"
+        }
+    ],
+    "format_version" : 1
+}
