@@ -16,6 +16,15 @@
         "base5": "textures/entity/villager2/villager",
         "base6": "textures/entity/villager2/villager",
 
+		// Biome Layer
+        "desert": "textures/entity/villager2/type/desert",
+        "jungle": "textures/entity/villager2/type/jungle",
+        "plains": "textures/entity/villager2/type/plains",
+        "savanna": "textures/entity/villager2/type/savanna",
+        "snow": "textures/entity/villager2/type/snow",
+        "swamp": "textures/entity/villager2/type/swamp",
+        "taiga": "textures/entity/villager2/type/taiga",
+
         // Profession Layer
         "armorer": "textures/entity/villager2/profession/armorer",
         "butcher": "textures/entity/villager2/profession/butcher",
@@ -32,15 +41,6 @@
         "tool_smith": "textures/entity/villager2/profession/toolsmith",
         "weapon_smith": "textures/entity/villager2/profession/weaponsmith",
         "unskilled": "textures/entity/villager2/profession/unskilled",
-		
-		// Biome Layer
-        "desert": "textures/entity/villager2/type/desert",
-        "jungle": "textures/entity/villager2/type/jungle",
-        "plains": "textures/entity/villager2/type/plains",
-        "savanna": "textures/entity/villager2/type/savanna",
-        "snow": "textures/entity/villager2/type/snow",
-        "swamp": "textures/entity/villager2/type/swamp",
-        "taiga": "textures/entity/villager2/type/taiga",
 
         // Levels Layer
 		"level_stone": "textures/entity/villager2/profession_level/stone",
@@ -48,7 +48,6 @@
         "level_gold": "textures/entity/villager2/profession_level/gold",
 		"level_emerald": "textures/entity/villager2/profession_level/emerald",
         "level_diamond": "textures/entity/villager2/profession_level/diamond"
-		
       },
       "geometry": {
         "default": "geometry.villager_v2"
@@ -59,7 +58,7 @@
           "variable.num_professions = 15;",
           "variable.num_tiers = 3;",
           "variable.profession_index = (query.variant < variable.num_professions ? query.variant : 0);",
-          "variable.level_index = query.trade_tier == 0 ? 0 : (query.trade_tier == query.max_trade_tier ? 2 : 1);"
+          "variable.level_index = query.trade_tier;"
         ]
       },
       "animations": {
