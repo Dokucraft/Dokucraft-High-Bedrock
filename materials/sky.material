@@ -1,0 +1,45 @@
+{
+  "cubemap": {
+    "defines": [
+      "YPOSFIX",
+      "CUBEMAP"
+    ],
+    
+    "states": [
+      "Blending"
+    ],
+
+    "blendSrc": "SourceAlpha",
+    "blendDst": "One",
+
+    "vertexShader": "shaders/skybox.vertex",
+    "vrGeometryShader": "shaders/uv.geometry",
+    "fragmentShader": "shaders/skybox.fragment",
+    "samplerStates": [
+      {
+        "samplerIndex": 0,
+        "textureFilter": "Point"
+      }
+    ],
+    "vertexFields": [
+      { "field": "Position" },
+      { "field": "UV0" }
+    ],
+
+    "msaaSupport": "Both"
+
+  },
+
+  "skyplane": {
+    "states": [ "DisableDepthWrite", "DisableAlphaWrite" ],
+
+		"vertexShader" : "shaders/sky.vertex",
+		"vrGeometryShader" : "shaders/sky.geometry",
+		"fragmentShader" : "shaders/sky.fragment",
+    "vertexFields": [
+      { "field": "Position" },
+      { "field": "Color" }
+    ],
+    "msaaSupport": "Both"
+  }
+}
