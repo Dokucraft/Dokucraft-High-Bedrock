@@ -2,6 +2,7 @@
   "cubemap": {
     "defines": [
       "YPOSFIX",
+      "SKY_ROTATION",
       "CUBEMAP"
     ],
     
@@ -12,9 +13,9 @@
     "blendSrc": "SourceAlpha",
     "blendDst": "One",
 
-    "vertexShader": "shaders/skybox.vertex",
+    "vertexShader": "shaders/cubemap.cxvt",
     "vrGeometryShader": "shaders/uv.geometry",
-    "fragmentShader": "shaders/skybox.fragment",
+    "fragmentShader": "shaders/cubemap.cxfr",
     "samplerStates": [
       {
         "samplerIndex": 0,
@@ -28,18 +29,5 @@
 
     "msaaSupport": "Both"
 
-  },
-
-  "skyplane": {
-    "states": [ "DisableDepthWrite", "DisableAlphaWrite" ],
-
-		"vertexShader" : "shaders/sky.vertex",
-		"vrGeometryShader" : "shaders/sky.geometry",
-		"fragmentShader" : "shaders/sky.fragment",
-    "vertexFields": [
-      { "field": "Position" },
-      { "field": "Color" }
-    ],
-    "msaaSupport": "Both"
   }
 }

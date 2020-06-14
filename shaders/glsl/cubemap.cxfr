@@ -1,3 +1,4 @@
+//File modified by @CrisXolt.
 // __multiversion__
 // This signals the loading code to prepend either #version 100 or #version 300 es as apropriate.
 
@@ -41,31 +42,24 @@ void main()
 #ifdef CUBEMAP
 
 float DST = mix(1.0,0.0,pow(max(min(1.0-FOG_COLOR.r*1.5,1.0),0.0),1.2));
-float SST = clamp((CURRENT_COLOR.b-0.15)*1.1764706,0.0,1.0);
 
 float TD = (DST);
-float TS = (0.5-abs(0.5-SST));
 float TN = (1.0-DST);
 float WR = (1.0-clamp(3.34*(FOG_CONTROL.y-0.7),0.0,1.0));
 
-vec2 CMDT = vec2(0.499,0.499);
-vec2 CMNT = vec2(0.501,0.0);
-vec2 CMST = vec2(0.0,0.501);
+vec2 CMDT = vec2(1.0,0.499);
+vec2 CMNT = vec2(0.0,0.501);
 
 vec4 D = texture2D(TEXTURE_0,uv.xy*CMDT);
 vec4 N = texture2D(TEXTURE_0,uv.xy*CMDT+CMNT);
-vec4 S = texture2D(TEXTURE_0,uv.xy*CMDT+CMST);
 
 D = D * 1.0;
 N = N * 1.125;
-S = S * 2.5;
 
 D = D * TD;
 N = N * TN;
-S = S * TS;
 
-vec4 DN = (1.0-N.a)*D+N.a*N;
-vec4 CMC = (1.0-S.a)*DN+S.a*S;
+vec4 CMC = (1.0-N.a)*D+N.a*N;
 CMC -= CMC*WR;
 
 gl_FragColor = CMC;
