@@ -43,6 +43,12 @@
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
   },
   {
+    "flipbook_texture": "textures/blocks/crying_obsidian",
+    "atlas_tile": "crying_obsidian",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3,4,5 ]
+  },
+  {
     "flipbook_texture": "textures/blocks/enchanting_table_side",
     "atlas_tile": "enchanting_table_side",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49 ]
@@ -66,6 +72,42 @@
     "flipbook_texture": "textures/blocks/furnace_front_on",
     "atlas_tile": "furnace_front_on",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/huge_fungus/crimson_log_side",
+    "atlas_tile": "crimson_log_side",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/huge_fungus/crimson_log_top",
+    "atlas_tile": "crimson_log_top",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/jigsaw_back",
+    "atlas_tile": "jigsaw_back",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/jigsaw_front",
+    "atlas_tile": "jigsaw_front",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/jigsaw_lock",
+    "atlas_tile": "jigsaw_lock",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/jigsaw_side",
+    "atlas_tile": "jigsaw_side",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3 ]
   },
   {
     "flipbook_texture": "textures/blocks/kelp_a",
@@ -148,6 +190,41 @@
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 ]
   },
   {
+    "flipbook_texture": "textures/blocks/respawn_anchor_bottom",
+    "atlas_tile": "respawn_anchor_bottom",
+    "frames": [ 0,1,2,3,4,5 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/respawn_anchor_side",
+    "atlas_tile": "respawn_anchor_side0",
+    "frames": [ 0,1,2,3,4,5 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/respawn_anchor_side",
+    "atlas_tile": "respawn_anchor_side1",
+    "frames": [ 0,1,2,3,4,5 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/respawn_anchor_side",
+    "atlas_tile": "respawn_anchor_side2",
+    "frames": [ 0,1,2,3,4,5 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/respawn_anchor_side",
+    "atlas_tile": "respawn_anchor_side3",
+    "frames": [ 0,1,2,3,4,5 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/respawn_anchor_side",
+    "atlas_tile": "respawn_anchor_side4",
+    "frames": [ 0,1,2,3,4,5 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/respawn_anchor_top",
+    "atlas_tile": "respawn_anchor_top",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
     "flipbook_texture": "textures/blocks/seagrass",
     "atlas_tile": "seagrass_short",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
@@ -173,9 +250,46 @@
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
   },
   {
+    "flipbook_texture": "textures/blocks/shroomlight",
+    "atlas_tile": "shroomlight",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3 ]
+  },
+  {
     "flipbook_texture": "textures/blocks/smoker_front_on",
     "atlas_tile": "smoker_front_on",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_campfire",
+    "atlas_tile": "soul_campfire",
+	"frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_campfire_log_lit",
+    "atlas_tile": "soul_campfire_log_lit",
+    "frames": [ 0,1,2,3,4,5,6,7 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_fire_0",
+    "atlas_tile": "soul_fire_0",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_fire_1",
+    "atlas_tile": "soul_fire_1",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_lantern",
+    "atlas_tile": "soul_lantern",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_torch",
+    "atlas_tile": "soul_torch",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63 ]
   },
   {
     "flipbook_texture": "textures/blocks/stonecutter2_saw",
@@ -186,6 +300,24 @@
     "flipbook_texture": "textures/blocks/torch_on",
     "atlas_tile": "torch_on",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/huge_fungus/warped_stem_side",
+    "atlas_tile": "warped_stem_side",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/warped_roots",
+    "atlas_tile": "warped_roots",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/warped_roots_pot",
+    "atlas_tile": "warped_roots_pot",
+	"ticks_per_frame": 20,
+    "frames": [ 0,1 ]
   },
   {
     "flipbook_texture": "textures/blocks/water_flow",
@@ -289,6 +421,11 @@
     "flipbook_texture": "textures/items/honeycomb",
     "atlas_tile": "honeycomb",
 	"frames": [ 0,1,2,3,4,5,6,7 ]
+  },
+  {
+    "flipbook_texture": "textures/items/netherite_ingot",
+    "atlas_tile": "netherite_ingot",
+    "frames": [ 0,1,2,3,4,5,6,7,8 ]
   },
   {
     "flipbook_texture": "textures/items/iron_ingot",

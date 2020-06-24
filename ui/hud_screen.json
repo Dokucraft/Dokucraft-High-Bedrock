@@ -186,7 +186,7 @@
 
   "full_dokuxp_bar": {
     "type": "image",
-    "texture": "textures/ui/experiencebarfull",
+    "texture": "textures/ui/doku_experiencebarfull",
     "clip_direction": "left",
     "clip_pixelperfect": false,
     "bindings": [
@@ -200,7 +200,7 @@
 
   "empty_dokuxp_bar": {
     "type": "image",
-    "texture": "textures/ui/experiencebarempty"
+    "texture": "textures/ui/doku_experiencebarempty"
   },
 
   "progress_bar_nub": {

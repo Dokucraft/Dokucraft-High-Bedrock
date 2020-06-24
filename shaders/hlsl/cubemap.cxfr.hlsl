@@ -43,9 +43,10 @@ void main(in PS_Input PSInput, out PS_Output PSOutput)
 #endif
 
 #ifdef CUBEMAP
-float DST = lerp(1.0,0.0,pow(max(min(1.0-FOG_COLOR.r*1.5,1.0),0.0),1.2));
+float DST = clamp((CURRENT_COLOR.b-0.15)*1.1764706,0.0,1.0);
 
 float TD = (DST);
+float TS = (0.5-abs(0.5-DST));
 float TN = (1.0-TD);
 float WR = (1.0-clamp(3.34*(FOG_CONTROL.y-0.7),0.0,1.0));
 
@@ -54,14 +55,18 @@ float2 CMNT = float2(0.0,0.501);
 
 float4 D = TEXTURE_0.Sample(TextureSampler0,PSInput.uv.xy*CMDT);
 float4 N = TEXTURE_0.Sample(TextureSampler0,PSInput.uv.xy*CMDT+CMNT);
+float4 S = D;
 
 D = D * 1.0;
 N = N * 1.125;
+S = S * 2.5;
 
 D = D * TD;
 N = N * TN;
+S = S * TS;
 
-float4 CMC = (1.0-N.a)*D+N.a*N;
+float4 DN = (1.0-N.a)*D+N.a*N;
+float4 CMC = (1.0-S.a)*DN+S.a*S;
 CMC -= CMC*WR;
 
 PSOutput.color = CMC;
