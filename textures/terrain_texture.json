@@ -1,0 +1,82 @@
+{
+  "resource_pack_name": "Dokucraft Light",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "grass_side": {
+      "textures": [
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#467B33"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#80A34F"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#828A3A"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#4F8D2F"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#753835"
+        },
+		//Default \/
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#88bb66"
+        },
+		//Default \/
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#86b87f"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#53932F"
+        },
+		//Default \/
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#86b783"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#2F782A"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#A6CC8E"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#53932F"
+        },
+        //Default \/
+		{
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#90814d"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#669321"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#53932F"
+        },
+		//Default \/
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#507a32"
+        },
+        "textures/blocks/grass_side_snowed"
+      ]
+    }
+  }
+}
