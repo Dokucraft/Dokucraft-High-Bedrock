@@ -152,7 +152,7 @@
           ]
         }
       },
-      // For when we hide the XP bar in Creative Move we still want to display the HUD
+      // For when we hide the XP bar in Creative Mode we still want to display the HUD
       {
         "hotbar@hotbar_chooser": {
           "offset": [ 3, 16 ],
