@@ -155,7 +155,7 @@
 			"textures" : "textures/blocks/bell_bottom"
 		},
 		"bell_carried" : {
-			"textures" : "textures/items/villagebell"
+			"textures" : "textures/items/bell"
 		},
 		"bell_side" : {
 			"textures" : "textures/blocks/bell_side"
@@ -2004,7 +2004,7 @@
 			"textures" : [ "textures/blocks/piston_inner" ]
 		},
 		"piston_top_normal" : {
-			"textures" : [ "textures/blocks/piston_top_normal" ]
+			"textures" : [ "textures/blocks/piston_top" ]
 		},
 		"piston_top_sticky" : {
 			"textures" : [ "textures/blocks/piston_top_sticky" ]

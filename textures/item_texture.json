@@ -513,7 +513,7 @@
       "textures" : "textures/items/nether_wart"
     },
     "netherbrick" : {
-      "textures" : "textures/items/netherbrick"
+      "textures" : "textures/items/nether_brick"
     },
     "netherite_ingot" : {
       "textures" : "textures/items/netherite_ingot"
@@ -865,7 +865,7 @@
       "textures" : "textures/items/spider_eye"
     },
     "spider_eye_fermented" : {
-      "textures" : "textures/items/spider_eye_fermented"
+      "textures" : "textures/items/fermented_spider_eye"
     },
     "spruce_door" : {
       "textures" : "textures/items/spruce_door"
