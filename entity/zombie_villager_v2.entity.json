@@ -20,20 +20,20 @@
         "taiga": "textures/entity/zombie_villager2/type/taiga",
 
         // Profession Layer
-        "armorer": "textures/entity/zombie_villager2/professions/armorer",
-        "butcher": "textures/entity/zombie_villager2/professions/butcher",
-        "cartographer": "textures/entity/zombie_villager2/professions/cartographer",
-        "cleric": "textures/entity/zombie_villager2/professions/cleric",
-        "farmer": "textures/entity/zombie_villager2/professions/farmer",
-        "fisherman": "textures/entity/zombie_villager2/professions/fisherman",
-        "fletcher": "textures/entity/zombie_villager2/professions/fletcher",
-        "leatherworker": "textures/entity/zombie_villager2/professions/leatherworker",
-        "librarian": "textures/entity/zombie_villager2/professions/librarian",
-        "shepherd": "textures/entity/zombie_villager2/professions/shepherd",
-        "tool_smith": "textures/entity/zombie_villager2/professions/toolsmith",
-        "weapon_smith": "textures/entity/zombie_villager2/professions/weaponsmith",
-        "stonemason": "textures/entity/zombie_villager2/professions/mason",
-        "nitwit": "textures/entity/zombie_villager2/professions/nitwit"
+        "armorer": "textures/entity/zombie_villager2/profession/armorer",
+        "butcher": "textures/entity/zombie_villager2/profession/butcher",
+        "cartographer": "textures/entity/zombie_villager2/profession/cartographer",
+        "cleric": "textures/entity/zombie_villager2/profession/cleric",
+        "farmer": "textures/entity/zombie_villager2/profession/farmer",
+        "fisherman": "textures/entity/zombie_villager2/profession/fisherman",
+        "fletcher": "textures/entity/zombie_villager2/profession/fletcher",
+        "leatherworker": "textures/entity/zombie_villager2/profession/leatherworker",
+        "librarian": "textures/entity/zombie_villager2/profession/librarian",
+        "stonemason": "textures/entity/zombie_villager2/profession/mason",
+        "nitwit": "textures/entity/zombie_villager2/profession/nitwit",
+        "shepherd": "textures/entity/zombie_villager2/profession/shepherd",
+        "tool_smith": "textures/entity/zombie_villager2/profession/toolsmith",
+        "weapon_smith": "textures/entity/zombie_villager2/profession/weaponsmith"
       },
       "geometry": {
         "default": "geometry.zombie.villager_v2"

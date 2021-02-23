@@ -16,7 +16,7 @@
         "base5": "textures/entity/villager2/villager",
         "base6": "textures/entity/villager2/villager",
 
-		// Biome Layer
+        // Biome Layer
         "desert": "textures/entity/villager2/type/desert",
         "jungle": "textures/entity/villager2/type/jungle",
         "plains": "textures/entity/villager2/type/plains",
@@ -35,18 +35,18 @@
         "fletcher": "textures/entity/villager2/profession/fletcher",
         "leatherworker": "textures/entity/villager2/profession/leatherworker",
         "librarian": "textures/entity/villager2/profession/librarian",
-		"stonemason": "textures/entity/villager2/profession/mason",
-		"nitwit": "textures/entity/villager2/profession/nitwit",
+        "stonemason": "textures/entity/villager2/profession/mason",
+        "nitwit": "textures/entity/villager2/profession/nitwit",
         "shepherd": "textures/entity/villager2/profession/shepherd",
         "tool_smith": "textures/entity/villager2/profession/toolsmith",
         "weapon_smith": "textures/entity/villager2/profession/weaponsmith",
         "unskilled": "textures/entity/villager2/profession/unskilled",
 
         // Levels Layer
-		"level_stone": "textures/entity/villager2/profession_level/stone",
+        "level_stone": "textures/entity/villager2/profession_level/stone",
         "level_iron": "textures/entity/villager2/profession_level/iron",
         "level_gold": "textures/entity/villager2/profession_level/gold",
-		"level_emerald": "textures/entity/villager2/profession_level/emerald",
+        "level_emerald": "textures/entity/villager2/profession_level/emerald",
         "level_diamond": "textures/entity/villager2/profession_level/diamond"
       },
       "geometry": {

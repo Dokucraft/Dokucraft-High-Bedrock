@@ -116,7 +116,7 @@
       ]
     },
     "bow_standby" : {
-      "textures" : "textures/items/bow"
+      "textures" : "textures/items/bow_standby"
     },
     "bowl" : {
       "textures" : "textures/items/bowl"
