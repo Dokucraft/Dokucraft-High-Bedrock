@@ -74,12 +74,12 @@
   {
     "flipbook_texture": "textures/blocks/crimson_stem",
     "atlas_tile": "crimson_log_side",
-    "ticks_per_frame": 20
+    "ticks_per_frame": 2
   },
   {
     "flipbook_texture": "textures/blocks/crimson_stem_top",
     "atlas_tile": "crimson_log_top",
-    "ticks_per_frame": 20
+    "ticks_per_frame": 2
   },
   {
     "flipbook_texture": "textures/blocks/crying_obsidian",
@@ -106,15 +106,18 @@
   },
   {
     "flipbook_texture": "textures/blocks/lava_flow",
-    "atlas_tile": "flowing_lava"
+    "atlas_tile": "flowing_lava",
+    "ticks_per_frame": 1
   },
   {
     "flipbook_texture": "textures/blocks/water_flow",
-    "atlas_tile": "flowing_water"
+    "atlas_tile": "flowing_water",
+    "ticks_per_frame": 1
   },
   {
     "flipbook_texture": "textures/blocks/water_flow_grey",
-    "atlas_tile": "flowing_water_grey"
+    "atlas_tile": "flowing_water_grey",
+    "ticks_per_frame": 1
   },
   {
     "flipbook_texture": "textures/blocks/furnace_front_on",
@@ -330,15 +333,18 @@
   },
   {
     "flipbook_texture": "textures/blocks/lava_still",
-    "atlas_tile": "still_lava"
+    "atlas_tile": "still_lava",
+    "ticks_per_frame": 1
   },
   {
     "flipbook_texture": "textures/blocks/water_still",
-    "atlas_tile": "still_water"
+    "atlas_tile": "still_water",
+    "ticks_per_frame": 1
   },
   {
     "flipbook_texture": "textures/blocks/water_still_grey",
-    "atlas_tile": "still_water_grey"
+    "atlas_tile": "still_water_grey",
+    "ticks_per_frame": 1
   },
   {
     "flipbook_texture": "textures/blocks/stonecutter_saw",
@@ -370,6 +376,6 @@
   {
     "flipbook_texture": "textures/blocks/warped_stem",
     "atlas_tile": "warped_stem_side",
-    "ticks_per_frame": 20
+    "ticks_per_frame": 2
   }
 ]
