@@ -1977,7 +1977,7 @@
 			"textures" : [ "textures/blocks/observer_front", "textures/blocks/observer_front" ]
 		},
 		"observer_south" : {
-			"textures" : [ "textures/blocks/observer_back", "textures/blocks/observer_back_lit" ]
+			"textures" : [ "textures/blocks/observer_back", "textures/blocks/observer_back_on" ]
 		},
 		"observer_top" : {
 			"textures" : [ "textures/blocks/observer_top", "textures/blocks/observer_top" ]

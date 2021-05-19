@@ -181,7 +181,7 @@
     "ticks_per_frame": 40
   },
   { 
-    "flipbook_texture": "textures/blocks/observer_back_lit",
+    "flipbook_texture": "textures/blocks/observer_back_on",
     "atlas_tile": "observer_back_lit"
   },
   {
