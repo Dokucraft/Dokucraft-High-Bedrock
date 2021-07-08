@@ -247,7 +247,7 @@
     "cobblestone_wall": {
       "textures": [
         "textures/blocks/cobblestone",
-        "textures/blocks/cobblestone_mossy",
+        "textures/blocks/mossy_cobblestone",
         "textures/blocks/granite",
         "textures/blocks/diorite",
         "textures/blocks/andesite",
@@ -2277,7 +2277,7 @@
         "textures/blocks/prismarine",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
-        "textures/blocks/cobblestone_mossy",
+        "textures/blocks/mossy_cobblestone",
         "textures/blocks/sandstone_top",
         "textures/blocks/red_nether_bricks"
       ]
@@ -2322,7 +2322,7 @@
         "textures/blocks/prismarine",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
-        "textures/blocks/cobblestone_mossy",
+        "textures/blocks/mossy_cobblestone",
         "textures/blocks/sandstone_top",
         "textures/blocks/red_nether_bricks"
       ]
@@ -2367,7 +2367,7 @@
         "textures/blocks/prismarine",
         "textures/blocks/dark_prismarine",
         "textures/blocks/prismarine_bricks",
-        "textures/blocks/cobblestone_mossy",
+        "textures/blocks/mossy_cobblestone",
         "textures/blocks/sandstone_top",
         "textures/blocks/red_nether_bricks"
       ]
