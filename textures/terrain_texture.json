@@ -519,6 +519,48 @@
         "textures/blocks/coarse_dirt"
       ]
     },
+		"dirt_podzol_bottom" : {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/dirt/0",
+						"weight": 440
+					},
+					{
+						"path": "textures/blocks/dirt/1",
+						"weight": 1
+					},
+					{
+						"path": "textures/blocks/dirt/2",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/3",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/4",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/5",
+						"weight": 3
+					},
+					{
+						"path": "textures/blocks/dirt/6",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/7",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/8",
+						"weight": 20
+					}
+				]
+			}
+    },
     "dirt_podzol_side": {
       "textures": "textures/blocks/podzol_side"
     },
@@ -600,6 +642,48 @@
         "textures/blocks/farmland_moist",
         "textures/blocks/farmland"
       ]
+    },
+		"farmland_side" : {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/dirt/0",
+						"weight": 440
+					},
+					{
+						"path": "textures/blocks/dirt/1",
+						"weight": 1
+					},
+					{
+						"path": "textures/blocks/dirt/2",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/3",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/4",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/5",
+						"weight": 3
+					},
+					{
+						"path": "textures/blocks/dirt/6",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/7",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/8",
+						"weight": 20
+					}
+				]
+			}
     },
     "fletching_table_side1": {
       "textures": {
@@ -687,11 +771,737 @@
     "granite": {
       "textures": "textures/blocks/granite"
     },
+		"grass_bottom" : {
+			"textures" : [
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				},
+				{
+					"variations": [
+            {
+              "path": "textures/blocks/dirt/0",
+              "weight": 440
+            },
+            {
+              "path": "textures/blocks/dirt/1",
+              "weight": 1
+            },
+            {
+              "path": "textures/blocks/dirt/2",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/3",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/4",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/5",
+              "weight": 3
+            },
+            {
+              "path": "textures/blocks/dirt/6",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/7",
+              "weight": 20
+            },
+            {
+              "path": "textures/blocks/dirt/8",
+              "weight": 20
+            }
+          ]
+				}
+			]
+    },
     "grass_carried": {
       "textures": {
         "overlay_color": "#79c05a",
         "path": "textures/blocks/grass_block_side"
       }
+    },
+		"grass_carried_bottom" : {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/dirt/0",
+						"weight": 440
+					},
+					{
+						"path": "textures/blocks/dirt/1",
+						"weight": 1
+					},
+					{
+						"path": "textures/blocks/dirt/2",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/3",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/4",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/5",
+						"weight": 3
+					},
+					{
+						"path": "textures/blocks/dirt/6",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/7",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/8",
+						"weight": 20
+					}
+				]
+			}
     },
     "grass_carried_top": {
       "textures": "textures/blocks/grass_block_top_carried"
