@@ -112,6 +112,9 @@
     "chicken_raw": {
       "textures": "textures/items/chicken"
     },
+		"chorus_fruit_popped": {
+      "textures": "textures/items/popped_chorus_fruit"
+    },
     "clownfish": {
       "textures": "textures/items/tropical_fish"
     },

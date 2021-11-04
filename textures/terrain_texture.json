@@ -2701,9 +2701,6 @@
     "polished_granite": {
       "textures": "textures/blocks/polished_granite"
     },
-    "portal": {
-      "textures": "textures/blocks/nether_portal"
-    },
     "potatoes": {
       "textures": [
         "textures/blocks/potatoes_stage0",
