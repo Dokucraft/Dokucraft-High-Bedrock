@@ -144,6 +144,12 @@
     "bell_carried": {
       "textures": "textures/items/bell"
     },
+		"big_dripleaf_side1": {
+      "textures": "textures/blocks/big_dripleaf_side"
+    },
+    "big_dripleaf_side2": {
+      "textures": "textures/blocks/big_dripleaf_tip"
+    },
     "birch_planks": {
       "textures": "textures/blocks/birch_planks"
     },
@@ -240,6 +246,75 @@
     },
     "cartography_table_side3": {
       "textures": "textures/blocks/cartography_table_side_3"
+    },
+		"cave_vines_head": {
+      "textures": [
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/unlit/3"
+            },
+            {
+              "path": "textures/blocks/cave_vines/unlit/4"
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/lit/3"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/4"
+            }
+          ]
+        }
+      ]
+    },
+    "cave_vines_body": {
+      "textures": [
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/unlit/0"
+            },
+            {
+              "path": "textures/blocks/cave_vines/unlit/1"
+            },
+            {
+              "path": "textures/blocks/cave_vines/unlit/2"
+            }
+          ]
+        },
+        {
+          "variations": [
+            {
+              "path": "textures/blocks/cave_vines/lit/0"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/1"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/2"
+            },
+            {
+              "path": "textures/blocks/cave_vines/lit/4"
+            }
+          ]
+        }
+      ]
+    },
+		"cobbled_deepslate": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/cobbled/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/cobbled/1"
+          }
+        ]
+      }
     },
     "cobblestone_mossy": {
       "textures": "textures/blocks/mossy_cobblestone"
@@ -395,6 +470,48 @@
         "textures/blocks/dead_horn_coral_fan"
       ]
     },
+		"cracked_deepslate_bricks": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/bricks/cracked/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/bricks/cracked/1"
+          }
+        ]
+      }
+    },
+    "cracked_nether_bricks": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/cracked_nether_bricks/0",
+            "weight": 100
+          },
+          {
+            "path": "textures/blocks/cracked_nether_bricks/1",
+            "weight": 15
+          },
+          {
+            "path": "textures/blocks/cracked_nether_bricks/2",
+            "weight": 15
+          },
+          {
+            "path": "textures/blocks/cracked_nether_bricks/3",
+            "weight": 2
+          },
+          {
+            "path": "textures/blocks/cracked_nether_bricks/4",
+            "weight": 2
+          },
+          {
+            "path": "textures/blocks/cracked_nether_bricks/5",
+            "weight": 5
+          }
+        ]
+      }
+    },
     "crafting_table_bottom": {
       "textures": "textures/blocks/crafting_table_bottom"
     },
@@ -447,6 +564,237 @@
           },
           {
             "path": "textures/blocks/plants/dead_bush/4"
+          }
+        ]
+      }
+    },
+		"deepslate": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/sides/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/sides/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/sides/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/sides/3"
+          },
+          {
+            "path": "textures/blocks/deepslate/sides/4"
+          }
+        ]
+      }
+    },
+    "deepslate_bricks": {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/bricks/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/bricks/1"
+          }
+        ]
+      }
+    },
+		"deepslate_coal_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/coal/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/coal/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/coal/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/coal/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/coal/4"
+          }
+        ]
+      }
+		},
+		"deepslate_copper_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/copper/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/copper/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/copper/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/copper/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/copper/4"
+          }
+        ]
+      }
+		},
+		"deepslate_diamond_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/diamond/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/diamond/1"
+          }
+        ]
+      }
+		},
+		"deepslate_emerald_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/emerald/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/emerald/1"
+          }
+        ]
+      }
+		},
+		"deepslate_gold_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/gold/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/gold/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/gold/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/gold/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/gold/4"
+          }
+        ]
+      }
+		},
+		"deepslate_iron_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/iron/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/iron/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/iron/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/iron/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/iron/4"
+          }
+        ]
+      }
+		},
+		"deepslate_lapis_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/lapis/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/lapis/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/lapis/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/lapis/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/lapis/4"
+          }
+        ]
+      }
+		},
+		"deepslate_redstone_ore" : {
+			"textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ores/redstone/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/ores/redstone/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/redstone/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/redstone/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/redstone/4"
+          }
+        ]
+      }
+		},
+    "deepslate_top": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/ends/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/ends/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ends/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ends/3"
+          }
+        ]
+      }
+    },
+		"deepslate_tiles": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/tiles/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/2"
+          }
+        ]
+      }
+    },
+		"cracked_deepslate_tiles": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/tiles/cracked/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/cracked/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/tiles/cracked/2"
           }
         ]
       }
@@ -560,6 +908,9 @@
     },
     "dirt_podzol_top": {
       "textures": "textures/blocks/podzol_top"
+    },
+		"dirt_with_roots": {
+      "textures": "textures/blocks/rooted_dirt"
     },
     "dispenser_front_horizontal": {
       "textures": "textures/blocks/dispenser_front"
@@ -2566,6 +2917,9 @@
     "orange_glazed_terracotta": {
       "textures": "textures/blocks/orange_glazed_terracotta"
     },
+		"ice_packed": {
+      "textures": "textures/blocks/packed_ice"
+    },
     "pink_glazed_terracotta": {
       "textures": "textures/blocks/pink_glazed_terracotta"
     },
@@ -2586,6 +2940,12 @@
     },
     "polished_andesite": {
       "textures": "textures/blocks/polished_andesite"
+    },
+		"pointed_dripstone_merge": {
+      "textures": [
+        "textures/blocks/pointed_dripstone_down_tip_merge",
+        "textures/blocks/pointed_dripstone_up_tip_merge"
+      ]
     },
     "polished_basalt_side": {
       "textures": {
@@ -2691,6 +3051,27 @@
           {
             "path": "textures/blocks/polished_basalt/ends_f",
             "weight": 1115
+          }
+        ]
+      }
+    },
+		"polished_deepslate": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/polished/0"
+          },
+					{
+            "path": "textures/blocks/deepslate/polished/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/polished/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/polished/3"
+          },
+          {
+            "path": "textures/blocks/deepslate/polished/4"
           }
         ]
       }
