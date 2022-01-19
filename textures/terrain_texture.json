@@ -663,6 +663,15 @@
           },
           {
             "path": "textures/blocks/deepslate/ores/emerald/1"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/emerald/2"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/emerald/3"
+          },
+					{
+            "path": "textures/blocks/deepslate/ores/emerald/4"
           }
         ]
       }
