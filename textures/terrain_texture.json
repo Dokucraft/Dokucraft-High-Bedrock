@@ -482,35 +482,8 @@
         ]
       }
     },
-    "cracked_nether_bricks": {
-      "textures": {
-        "variations": [
-          {
-            "path": "textures/blocks/cracked_nether_bricks/0",
-            "weight": 100
-          },
-          {
-            "path": "textures/blocks/cracked_nether_bricks/1",
-            "weight": 15
-          },
-          {
-            "path": "textures/blocks/cracked_nether_bricks/2",
-            "weight": 15
-          },
-          {
-            "path": "textures/blocks/cracked_nether_bricks/3",
-            "weight": 2
-          },
-          {
-            "path": "textures/blocks/cracked_nether_bricks/4",
-            "weight": 2
-          },
-          {
-            "path": "textures/blocks/cracked_nether_bricks/5",
-            "weight": 5
-          }
-        ]
-      }
+		"cracked_nether_bricks": {
+      "textures": "textures/blocks/cracked_nether_bricks"
     },
     "crafting_table_bottom": {
       "textures": "textures/blocks/crafting_table_bottom"
