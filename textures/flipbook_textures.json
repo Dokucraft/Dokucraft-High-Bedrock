@@ -72,12 +72,12 @@
     "atlas_tile": "conduit_wind_vertical"
   },
   {
-    "flipbook_texture": "textures/blocks/crimson_stem",
+    "flipbook_texture": "textures/blocks/huge_fungus/crimson_stem",
     "atlas_tile": "crimson_log_side",
     "ticks_per_frame": 2
   },
   {
-    "flipbook_texture": "textures/blocks/crimson_stem_top",
+    "flipbook_texture": "textures/blocks/huge_fungus/crimson_stem_top",
     "atlas_tile": "crimson_log_top",
     "ticks_per_frame": 2
   },
@@ -189,7 +189,7 @@
     "atlas_tile": "portal"
   },
 	{
-    "flipbook_texture": "textures/blocks/prismarine",
+    "flipbook_texture": "textures/blocks/prismarine_rough",
     "atlas_tile": "prismarine",
     "frames": [ 0 ]
   },
@@ -374,7 +374,7 @@
     "ticks_per_frame": 20
   },
   {
-    "flipbook_texture": "textures/blocks/warped_stem",
+    "flipbook_texture": "textures/blocks/huge_fungus/warped_stem",
     "atlas_tile": "warped_stem_side",
     "ticks_per_frame": 2
   }
