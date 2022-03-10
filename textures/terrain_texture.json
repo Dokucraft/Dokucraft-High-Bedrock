@@ -1912,7 +1912,8 @@
         },
         {
           "overlay_color" : "#997C4D",
-          "path": "textures/blocks/grass_block_side"\n        },
+          "path": "textures/blocks/grass_block_side"
+        },
         {
           "overlay_color" : "#397A5C",
           "path": "textures/blocks/grass_block_side"
