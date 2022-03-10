@@ -1864,67 +1864,66 @@
       "textures": [
         {
           "overlay_color" : "#3B835E",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#3E8962",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#98B088",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#44895C",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#3C4A67",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#578F4F",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#427F60",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#427F60",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#4E916E",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#3E8962",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#3C805F",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#3C825F",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#997C4D",
-          "path": "textures/blocks/grass_block_side",
-        },
+          "path": "textures/blocks/grass_block_side"\n        },
         {
           "overlay_color" : "#397A5C",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#44895C",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         {
           "overlay_color" : "#3B6A5E",
-          "path": "textures/blocks/grass_block_side",
+          "path": "textures/blocks/grass_block_side"
         },
         "textures/blocks/grass_block_snow"
       ]
