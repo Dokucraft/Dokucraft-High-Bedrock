@@ -92,7 +92,8 @@
         "textures/items/tropical_fish_bucket",
         "textures/items/pufferfish_bucket",
         "textures/items/powder_snow_bucket",
-        "textures/items/axolotl_bucket"
+        "textures/items/axolotl_bucket",
+        "textures/items/tadpole_bucket"
       ]
     },
     "carrot_golden": {
@@ -365,6 +366,9 @@
     },
     "record_13": {
       "textures": "textures/items/music_disc_13"
+    },
+		"record_5": {
+      "textures": "textures/items/music_disc_5"
     },
     "record_blocks": {
       "textures": "textures/items/music_disc_blocks"

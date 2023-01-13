@@ -571,7 +571,7 @@
         ]
       }
     },
-		"deepslate_coal_ore" : {
+		"deepslate_coal_ore": {
 			"textures": {
         "variations": [
           {
@@ -592,7 +592,7 @@
         ]
       }
 		},
-		"deepslate_copper_ore" : {
+		"deepslate_copper_ore": {
 			"textures": {
         "variations": [
           {
@@ -613,7 +613,7 @@
         ]
       }
 		},
-		"deepslate_diamond_ore" : {
+		"deepslate_diamond_ore": {
 			"textures": {
         "variations": [
           {
@@ -625,7 +625,7 @@
         ]
       }
 		},
-		"deepslate_emerald_ore" : {
+		"deepslate_emerald_ore": {
 			"textures": {
         "variations": [
           {
@@ -646,7 +646,7 @@
         ]
       }
 		},
-		"deepslate_gold_ore" : {
+		"deepslate_gold_ore": {
 			"textures": {
         "variations": [
           {
@@ -667,7 +667,7 @@
         ]
       }
 		},
-		"deepslate_iron_ore" : {
+		"deepslate_iron_ore": {
 			"textures": {
         "variations": [
           {
@@ -688,7 +688,7 @@
         ]
       }
 		},
-		"deepslate_lapis_ore" : {
+		"deepslate_lapis_ore": {
 			"textures": {
         "variations": [
           {
@@ -709,7 +709,7 @@
         ]
       }
 		},
-		"deepslate_redstone_ore" : {
+		"deepslate_redstone_ore": {
 			"textures": {
         "variations": [
           {
@@ -840,7 +840,7 @@
         "textures/blocks/coarse_dirt"
       ]
     },
-		"dirt_podzol_bottom" : {
+		"dirt_podzol_bottom": {
 			"textures": {
 				"variations": [
 					{
@@ -967,7 +967,7 @@
         "textures/blocks/farmland"
       ]
     },
-		"farmland_side" : {
+		"farmland_side": {
 			"textures": {
 				"variations": [
 					{
@@ -1095,8 +1095,8 @@
     "granite": {
       "textures": "textures/blocks/granite"
     },
-		"grass_bottom" : {
-			"textures" : [
+		"grass_bottom": {
+			"textures": [
 				{
 					"variations": [
             {
@@ -1785,7 +1785,7 @@
         "path": "textures/blocks/grass_block_side"
       }
     },
-		"grass_carried_bottom" : {
+		"grass_carried_bottom": {
 			"textures": {
 				"variations": [
 					{
@@ -2472,6 +2472,9 @@
     },
     "magenta_glazed_terracotta": {
       "textures": "textures/blocks/magenta_glazed_terracotta"
+    },
+		"mangrove_log_side" : {
+      "textures": "textures/blocks/mangrove_log"
     },
     "melon_stem": {
       "textures": [
@@ -3585,6 +3588,9 @@
     },
     "stripped_crimson_stem_top": {
       "textures": "textures/blocks/stripped_crimson_stem_top"
+    },
+		"stripped_mangrove_log_side" : {
+      "textures": "textures/blocks/stripped_mangrove_log"
     },
     "stripped_warped_stem_side": {
       "textures": "textures/blocks/stripped_warped_stem_side"
