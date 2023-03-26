@@ -56,7 +56,7 @@
           ],
           "bindings": [
             {
-              "binding_name": "#is_not_creative_mode",
+              "binding_name": "#show_survival_ui",
               "binding_name_override": "#visible"
             }
           ]
@@ -216,6 +216,12 @@
     "size": [ "100%-2px", "100%c" ],
     "anchor_from": "top_left",
     "anchor_to": "top_left",
+		"bindings": [
+      {
+        "binding_name": "(not #on_new_death_screen)",
+        "binding_name_override": "#visible"
+      }
+    ],
     "controls": [
       {
         "chat_background": {
@@ -258,18 +264,20 @@
 
   "hotbar_elipses_panel_right_art": {
     "type": "panel",
-    "size": [ 22, 22 ],
+		"$hotbar_elipses_panel_right_art_size|default": [ 22, 22 ],
+    "size": "$hotbar_elipses_panel_right_art_size",
     "layer": 4,
     "controls": [
       {
         "slot@hud.hotbar_slot_image": {
+					"$hotbar_slot_image_size": "$hotbar_elipses_panel_right_art_size",
           // The layering is for cover the grid cap/black border when this panel is visible
-										 
+					"layer": 2,
           //Grab the right hand end of the hotbar
           "texture": "textures/ui/mobile_inventory_button"
         }
       },
       { "button@hud.hotbar_elipses_button": {} }
     ]
-  }
+	}
 }
