@@ -301,6 +301,36 @@
         }
       ]
     },
+		"chiseled_bookshelf_side": {
+      "textures": "textures/blocks/chiseled_bookshelf/side"
+    },
+    "chiseled_bookshelf_front": {
+      "textures": [
+				{
+					"variations": [
+						{
+							"path": "textures/blocks/chiseled_bookshelf/empty_0"
+						},
+						{
+							"path": "textures/blocks/chiseled_bookshelf/empty_1"
+						}
+					]
+				},
+				{
+					"variations": [
+						{
+							"path": "textures/blocks/chiseled_bookshelf/occupied_0"
+						},
+						{
+							"path": "textures/blocks/chiseled_bookshelf/occupied_1"
+						}
+					]
+				}
+      ]
+    },
+    "chiseled_bookshelf_top": {
+      "textures": "textures/blocks/chiseled_bookshelf/ends"
+    },
 		"cobbled_deepslate": {
 			"textures": {
         "variations": [
