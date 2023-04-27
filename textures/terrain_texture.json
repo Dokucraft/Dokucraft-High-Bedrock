@@ -4,6 +4,53 @@
   "padding": 8,
   "num_mip_levels": 4,
   "texture_data": {
+		"acacia_log_side": {
+			"textures": "textures/blocks/acacia_log"
+		},
+		"acacia_log_top": {
+			"textures": [
+				{
+          "variations": [
+            {
+              "path": "textures/blocks/log/acacia/0"
+            },
+            {
+              "path": "textures/blocks/log/acacia/1"
+            },
+            {
+              "path": "textures/blocks/log/acacia/2"
+            },
+            {
+              "path": "textures/blocks/log/acacia/3"
+            },
+            {
+              "path": "textures/blocks/log/acacia/4"
+            },
+            {
+              "path": "textures/blocks/log/acacia/5"
+            },
+            {
+              "path": "textures/blocks/log/acacia/6"
+            },
+            {
+              "path": "textures/blocks/log/acacia/7"
+            },
+            {
+              "path": "textures/blocks/log/acacia/8"
+            },
+            {
+              "path": "textures/blocks/log/acacia/9"
+            },
+            {
+              "path": "textures/blocks/log/acacia/10"
+            },
+            {
+              "path": "textures/blocks/log/acacia/11"
+            }
+          ]
+        }
+			]
+		},
     "acacia_planks": {
       "textures": "textures/blocks/acacia_planks"
     },
@@ -150,6 +197,53 @@
     "big_dripleaf_side2": {
       "textures": "textures/blocks/big_dripleaf_tip"
     },
+		"birch_log_side": {
+			"textures": "textures/blocks/birch_log"
+		},
+		"birch_log_top": {
+			"textures": [
+				{
+          "variations": [
+            {
+              "path": "textures/blocks/log/birch/0"
+            },
+            {
+              "path": "textures/blocks/log/birch/1"
+            },
+            {
+              "path": "textures/blocks/log/birch/2"
+            },
+            {
+              "path": "textures/blocks/log/birch/3"
+            },
+            {
+              "path": "textures/blocks/log/birch/4"
+            },
+            {
+              "path": "textures/blocks/log/birch/5"
+            },
+            {
+              "path": "textures/blocks/log/birch/6"
+            },
+            {
+              "path": "textures/blocks/log/birch/7"
+            },
+            {
+              "path": "textures/blocks/log/birch/8"
+            },
+            {
+              "path": "textures/blocks/log/birch/9"
+            },
+            {
+              "path": "textures/blocks/log/birch/10"
+            },
+            {
+              "path": "textures/blocks/log/birch/11"
+            }
+          ]
+        }
+			]
+		},
     "birch_planks": {
       "textures": "textures/blocks/birch_planks"
     },
@@ -536,6 +630,53 @@
     "cyan_glazed_terracotta": {
       "textures": "textures/blocks/cyan_glazed_terracotta"
     },
+		"dark_oak_log_side": {
+			"textures": "textures/blocks/dark_oak_log"
+		},
+		"dark_oak_log_top": {
+			"textures": [
+				{
+          "variations": [
+            {
+              "path": "textures/blocks/log/dark_oak/0"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/1"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/2"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/3"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/4"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/5"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/6"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/7"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/8"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/9"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/10"
+            },
+            {
+              "path": "textures/blocks/log/dark_oak/11"
+            }
+          ]
+        }
+			]
+		},
     "dark_oak_planks": {
       "textures": "textures/blocks/dark_oak_planks"
     },
@@ -2067,6 +2208,53 @@
     "itemframe_background": {
       "textures": "textures/blocks/item_frame"
     },
+		"jungle_log_side": {
+			"textures": "textures/blocks/jungle_log"
+		},
+		"jungle_log_top": {
+			"textures": [
+				{
+          "variations": [
+            {
+              "path": "textures/blocks/log/jungle/0"
+            },
+            {
+              "path": "textures/blocks/log/jungle/1"
+            },
+            {
+              "path": "textures/blocks/log/jungle/2"
+            },
+            {
+              "path": "textures/blocks/log/jungle/3"
+            },
+            {
+              "path": "textures/blocks/log/jungle/4"
+            },
+            {
+              "path": "textures/blocks/log/jungle/5"
+            },
+            {
+              "path": "textures/blocks/log/jungle/6"
+            },
+            {
+              "path": "textures/blocks/log/jungle/7"
+            },
+            {
+              "path": "textures/blocks/log/jungle/8"
+            },
+            {
+              "path": "textures/blocks/log/jungle/9"
+            },
+            {
+              "path": "textures/blocks/log/jungle/10"
+            },
+            {
+              "path": "textures/blocks/log/jungle/11"
+            }
+          ]
+        }
+			]
+		},
     "jungle_planks": {
       "textures": "textures/blocks/jungle_planks"
     },
@@ -2928,6 +3116,56 @@
     "noteblock": {
       "textures": "textures/blocks/note_block"
     },
+		"oak_log_side": {
+			"textures": "textures/blocks/oak_log"
+		},
+		"oak_log_top": {
+			"textures": [
+				{
+          "variations": [
+            {
+              "path": "textures/blocks/log/oak/0"
+            },
+            {
+              "path": "textures/blocks/log/oak/1"
+            },
+            {
+              "path": "textures/blocks/log/oak/2"
+            },
+            {
+              "path": "textures/blocks/log/oak/3"
+            },
+            {
+              "path": "textures/blocks/log/oak/4"
+            },
+            {
+              "path": "textures/blocks/log/oak/5"
+            },
+            {
+              "path": "textures/blocks/log/oak/6"
+            },
+            {
+              "path": "textures/blocks/log/oak/7"
+            },
+            {
+              "path": "textures/blocks/log/oak/8"
+            },
+            {
+              "path": "textures/blocks/log/oak/9"
+            },
+            {
+              "path": "textures/blocks/log/oak/10"
+            },
+            {
+              "path": "textures/blocks/log/oak/11"
+            }
+          ]
+        }
+			]
+		},
+		"oak_planks": {
+			"textures": "textures/blocks/oak_planks"
+		},
     "observer_south": {
       "textures": [
         "textures/blocks/observer_back",
@@ -3377,6 +3615,53 @@
         "textures/blocks/wet_sponge"
       ]
     },
+		"spruce_log_side": {
+			"textures": "textures/blocks/spruce_log"
+		},
+		"spruce_log_top": {
+			"textures": [
+				{
+          "variations": [
+            {
+              "path": "textures/blocks/log/spruce/0"
+            },
+            {
+              "path": "textures/blocks/log/spruce/1"
+            },
+            {
+              "path": "textures/blocks/log/spruce/2"
+            },
+            {
+              "path": "textures/blocks/log/spruce/3"
+            },
+            {
+              "path": "textures/blocks/log/spruce/4"
+            },
+            {
+              "path": "textures/blocks/log/spruce/5"
+            },
+            {
+              "path": "textures/blocks/log/spruce/6"
+            },
+            {
+              "path": "textures/blocks/log/spruce/7"
+            },
+            {
+              "path": "textures/blocks/log/spruce/8"
+            },
+            {
+              "path": "textures/blocks/log/spruce/9"
+            },
+            {
+              "path": "textures/blocks/log/spruce/10"
+            },
+            {
+              "path": "textures/blocks/log/spruce/11"
+            }
+          ]
+        }
+			]
+		},
     "spruce_planks": {
       "textures": "textures/blocks/spruce_planks"
     },
