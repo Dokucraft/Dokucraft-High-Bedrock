@@ -4,24 +4,24 @@
   "settings_content": {
     "type": "panel",
     "controls": [
-			{
-				"background": {
-					"$layer|default": -1,
-					"variables": [{
-						"requires": "($is_realm_slot or $realm_no_world_edit)",
-						"$layer": -2
-					}],
-					"type": "image",
-					"texture": "textures/ui/White",
-					"keep_ratio": false,
-					"size": [ "100%", "100%sm" ],
-					"color": [ 0.04, 0.12, 0.16 ],
-					"offset": [ 0, 0 ],
-					"layer": "$layer",
-					"anchor_from": "top_left",
-					"anchor_to": "top_left"
-				}
-			},
+      {
+        "background": {
+          "$layer|default": -1,
+          "variables": [{
+            "requires": "($is_realm_slot or $realm_no_world_edit)",
+            "$layer": -2
+          }],
+          "type": "image",
+          "texture": "textures/ui/White",
+          "keep_ratio": false,
+          "size": [ "100%", "100%sm" ],
+          "color": [ 0.04, 0.12, 0.16 ],
+          "offset": [ 0, 0 ],
+          "layer": "$layer",
+          "anchor_from": "top_left",
+          "anchor_to": "top_left"
+        }
+      },
 
       {
         "stack_panel": {

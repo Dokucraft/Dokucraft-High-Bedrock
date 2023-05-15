@@ -1047,13 +1047,13 @@
   "empty_dokuxp_bar_icon": {
     "type": "image",
     "texture": "textures/ui/doku_experiencebarempty",
-	"size": [ 364, 10 ]
+  "size": [ 364, 10 ]
   },
 
   "full_dokuxp_bar_icon_base": {
     "type": "image",
     "texture": "textures/ui/doku_experiencebarfull",
-	"size": [ 364, 10 ],
+  "size": [ 364, 10 ],
     "clip_direction": "left",
     "clip_pixelperfect": false
   },
@@ -1072,13 +1072,13 @@
   "empty_progress_bar_icon": {
     "type": "image",
     "texture": "textures/ui/progressbarempty",
-	"size": [ "364px - 91px", "10px - 2.5px" ]
+  "size": [ "364px - 91px", "10px - 2.5px" ]
   },
 
   "full_progress_bar_icon_base": {
     "type": "image",
     "texture": "textures/ui/progressbarfull",
-	"size": [ "364px - 91px", "10px - 2.5px" ],
+  "size": [ "364px - 91px", "10px - 2.5px" ],
     "clip_direction": "left",
     "clip_pixelperfect": false
   },

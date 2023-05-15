@@ -1,7 +1,7 @@
 {
   "namespace": "common",
 
-	"compact_close_button@close_button": {
+  "compact_close_button@close_button": {
     "size": [ 15, 15 ],
     "$close_button_panel_size|default": [ 15, 15 ],
     "controls": [
@@ -22,15 +22,15 @@
       }
     ]
   },
-	
-	"highlight_slot": {
+  
+  "highlight_slot": {
     "type": "image",
     "texture": "textures/ui/highlight_slot",
     "size": [ "100%", "100%"],
     "alpha": 0.25
   },
-	
-	"white_border_slot": {
+  
+  "white_border_slot": {
     "type": "image",
     "texture": "textures/ui/highlight_slot_outline",
     "size": [ "100%", "100%" ]

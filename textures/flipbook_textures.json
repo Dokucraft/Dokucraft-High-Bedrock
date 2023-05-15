@@ -1,15 +1,15 @@
 [
-	{
-		"resource_pack_name": "Dokucraft High"
-	},
-	{
+  {
+    "resource_pack_name": "Dokucraft High"
+  },
+  {
     "flipbook_texture": "textures/blocks/blast_furnace_front_on",
     "atlas_tile": "blast_furnace_front_on"
   },
   {
     "flipbook_texture": "textures/blocks/brewing_stand",
     "atlas_tile": "brewing_stand",
-		"frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 ]
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 ]
   },
   {
     "flipbook_texture": "textures/blocks/campfire",
@@ -97,12 +97,12 @@
   {
     "flipbook_texture": "textures/blocks/fire_0",
     "atlas_tile": "fire_0",
-		"frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
   },
   {
     "flipbook_texture": "textures/blocks/fire_1",
     "atlas_tile": "fire_1",
-		"frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
   },
   {
     "flipbook_texture": "textures/blocks/lava_flow",
@@ -175,9 +175,9 @@
     "flipbook_texture": "textures/blocks/lantern",
     "atlas_tile": "lantern"
   },
-	{
+  {
     "flipbook_texture": "textures/blocks/magma",
-		"atlas_tile": "magma",
+    "atlas_tile": "magma",
     "ticks_per_frame": 40
   },
   { 
@@ -188,7 +188,7 @@
     "flipbook_texture": "textures/blocks/portal",
     "atlas_tile": "portal"
   },
-	{
+  {
     "flipbook_texture": "textures/blocks/prismarine_rough",
     "atlas_tile": "prismarine",
     "frames": [ 0 ]
@@ -200,17 +200,17 @@
   {
     "flipbook_texture": "textures/blocks/activator_rail_on",
     "atlas_tile": "rail_activator_powered",
-		"ticks_per_frame": 20
+    "ticks_per_frame": 20
   },
-	{
+  {
     "flipbook_texture": "textures/blocks/detector_rail_on",
     "atlas_tile": "rail_detector_powered",
-		"ticks_per_frame": 20
+    "ticks_per_frame": 20
   },
   {
     "flipbook_texture": "textures/blocks/powered_rail_on",
     "atlas_tile": "rail_golden_powered",
-		"ticks_per_frame": 20
+    "ticks_per_frame": 20
   },
   {
     "flipbook_texture": "textures/blocks/redstone_block",
@@ -224,7 +224,7 @@
   {
     "flipbook_texture": "textures/blocks/redstone_torch_on",
     "atlas_tile": "redstone_torch_on",
-		"ticks_per_frame": 20
+    "ticks_per_frame": 20
   },
   {
     "flipbook_texture": "textures/blocks/repeater_on",
@@ -314,12 +314,12 @@
   {
     "flipbook_texture": "textures/blocks/soul_fire_0",
     "atlas_tile": "soul_fire_0",
-		"frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
   },
   {
     "flipbook_texture": "textures/blocks/soul_fire_1",
     "atlas_tile": "soul_fire_1",
-		"frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 ]
   },
   {
     "flipbook_texture": "textures/blocks/soul_lantern",

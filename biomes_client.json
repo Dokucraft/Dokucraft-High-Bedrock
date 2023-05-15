@@ -243,7 +243,7 @@
       "water_fog_color": "#064854",
       "water_fog_distance": 60
     },
-	//Unchanged
+  //Unchanged
     "warm_ocean": {
       "water_surface_color": "#02B0E5",
       "water_surface_transparency": 0.55,
@@ -265,7 +265,7 @@
       "water_fog_color": "#0e72b9",
       "water_fog_distance": 60
     },
-	//End Unchanged
+  //End Unchanged
     "cold_ocean": {
       "water_surface_color": "#59BFE4",
       "water_fog_color": "#044D71",
@@ -286,8 +286,8 @@
       "water_fog_color": "#044D71",
       "water_fog_distance": 60
     },
-	//Unchanged
-	"warped_forest": {
+  //Unchanged
+  "warped_forest": {
       "water_surface_color": "#96CF9E",
       "water_fog_color": "#96CF9E",
       "fog_color": "#1a051A"
@@ -307,6 +307,6 @@
       "water_fog_color": "#423e42",
       "fog_color": "#685f70"
     }
-	//End Unchanged
+  //End Unchanged
   }
 }

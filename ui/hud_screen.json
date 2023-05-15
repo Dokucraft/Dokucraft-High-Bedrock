@@ -5,7 +5,7 @@
   // Hud Screen
   //---------------------------------------------------------------------------
 
-	"exp_progress_bar_and_hotbar": {
+  "exp_progress_bar_and_hotbar": {
     "type": "panel",
     "size": [ "100%c", 31 ],
     "anchor_from": "bottom_middle",
@@ -87,7 +87,7 @@
     ]
   },
 
-	"full_dokuxp_bar": {
+  "full_dokuxp_bar": {
     "type": "image",
     "texture": "textures/ui/doku_experiencebarfull",
     "clip_direction": "left",
@@ -106,7 +106,7 @@
     "texture": "textures/ui/doku_experiencebarempty"
   },
 
-	"doku_button_layout": {
+  "doku_button_layout": {
     "type": "image",
     "texture": "textures/ui/none",
     "anchor_from": "center",
@@ -147,7 +147,7 @@
     ]
   },
 
-	"hotbar_slot_selected_image": {
+  "hotbar_slot_selected_image": {
     "type": "image",
     "texture": "textures/ui/selected_hotbar_slot",
     "size": [ 20, 22 ],
@@ -162,7 +162,7 @@
     ]
   },
 
-	"player_position": {
+  "player_position": {
     "type": "image",
     "size": [ "100%c + 6px", "100%c + 2px" ],
     "texture": "textures/ui/Black",
@@ -201,7 +201,7 @@
     ]
   },
 
-	"anim_chat_bg_alpha": {
+  "anim_chat_bg_alpha": {
     "anim_type": "alpha",
     "easing": "in_quart",
     "destroy_at_end": "chat_grid_item",
@@ -210,13 +210,13 @@
     "to": 0
   },
 
-	"chat_grid_item": {
+  "chat_grid_item": {
     "type": "panel",
     "layer": 1,
     "size": [ "100%-2px", "100%c" ],
     "anchor_from": "top_left",
     "anchor_to": "top_left",
-		"bindings": [
+    "bindings": [
       {
         "binding_name": "(not #on_new_death_screen)",
         "binding_name_override": "#visible"
@@ -246,7 +246,7 @@
     ]
   },
 
-	"hotbar_elipses_panel_right_content": {
+  "hotbar_elipses_panel_right_content": {
     "type": "stack_panel",
     "orientation": "horizontal",
     "controls": [
@@ -264,20 +264,20 @@
 
   "hotbar_elipses_panel_right_art": {
     "type": "panel",
-		"$hotbar_elipses_panel_right_art_size|default": [ 22, 22 ],
+    "$hotbar_elipses_panel_right_art_size|default": [ 22, 22 ],
     "size": "$hotbar_elipses_panel_right_art_size",
     "layer": 4,
     "controls": [
       {
         "slot@hud.hotbar_slot_image": {
-					"$hotbar_slot_image_size": "$hotbar_elipses_panel_right_art_size",
+          "$hotbar_slot_image_size": "$hotbar_elipses_panel_right_art_size",
           // The layering is for cover the grid cap/black border when this panel is visible
-					"layer": 2,
+          "layer": 2,
           //Grab the right hand end of the hotbar
           "texture": "textures/ui/mobile_inventory_button"
         }
       },
       { "button@hud.hotbar_elipses_button": {} }
     ]
-	}
+  }
 }

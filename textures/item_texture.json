@@ -118,7 +118,7 @@
     "chicken_raw": {
       "textures": "textures/items/chicken"
     },
-		"chorus_fruit_popped": {
+    "chorus_fruit_popped": {
       "textures": "textures/items/popped_chorus_fruit"
     },
     "clownfish": {
@@ -187,7 +187,7 @@
     "gold_horse_armor": {
       "textures": "textures/items/golden_horse_armor"
     },
-		"hanging_roots": {
+    "hanging_roots": {
       "textures": "textures/blocks/hanging_roots"
     },
     "heart_of_the_sea": {
@@ -370,7 +370,7 @@
     "record_13": {
       "textures": "textures/items/music_disc_13"
     },
-		"record_5": {
+    "record_5": {
       "textures": "textures/items/music_disc_5"
     },
     "record_blocks": {
@@ -391,7 +391,7 @@
     "record_mellohi": {
       "textures": "textures/items/music_disc_mellohi"
     },
-		"record_otherside": {
+    "record_otherside": {
       "textures": "textures/items/music_disc_otherside"
     },
     "record_pigstep": {

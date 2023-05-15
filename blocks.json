@@ -1,147 +1,147 @@
 {
-	"format_version" : [ 1, 1, 0 ],
-	"azalea_leaves" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"azalea_leaves_flowered" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"camera" : {
-		"isotropic" : false
-	},
-	"clay" : {
-		"isotropic" : false
-	},
-	"crimson_nylium" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"crying_obsidian" : {
-		"isotropic" : false
-	},
-	"deepslate" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"dirt" : {
-		"isotropic" : false
-	},
-	"dirt_with_roots" : {
-		"isotropic" : false
-	},
-	"glowstone" : {
-		"isotropic" : false
-	},
-	"grass" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"grass_path" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"hardened_clay" : {
-		"isotropic" : false
-	},
-	"infested_deepslate" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"lava" : {
-		"isotropic" : false
-	},
-	"leaves" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"leaves2" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"magma" : {
-		"isotropic" : false
-	},
-	"mycelium" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"netherrack" : {
-		"isotropic" : false
-	},
-	"obsidian" : {
-		"isotropic" : false
-	},
-	"podzol" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"red_sandstone" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"red_sandstone_stairs" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"sand" : {
-		"isotropic" : false
-	},
-	"sandstone" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"sandstone_stairs" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	},
-	"snow" : {
-		"isotropic" : false
-	},
-	"snow_layer" : {
-		"isotropic" : false
-	},
-	"sponge" : {
-		"isotropic" : false
-	},
-	"stained_hardened_clay" : {
-		"isotropic" : false
-	},
-	"warped_nylium" : {
-		"isotropic" : {
-			"down" : false,
-			"up" : false
-		}
-	}
+  "format_version" : [ 1, 1, 0 ],
+  "azalea_leaves" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "azalea_leaves_flowered" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "camera" : {
+    "isotropic" : false
+  },
+  "clay" : {
+    "isotropic" : false
+  },
+  "crimson_nylium" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "crying_obsidian" : {
+    "isotropic" : false
+  },
+  "deepslate" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "dirt" : {
+    "isotropic" : false
+  },
+  "dirt_with_roots" : {
+    "isotropic" : false
+  },
+  "glowstone" : {
+    "isotropic" : false
+  },
+  "grass" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "grass_path" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "hardened_clay" : {
+    "isotropic" : false
+  },
+  "infested_deepslate" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "lava" : {
+    "isotropic" : false
+  },
+  "leaves" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "leaves2" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "magma" : {
+    "isotropic" : false
+  },
+  "mycelium" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "netherrack" : {
+    "isotropic" : false
+  },
+  "obsidian" : {
+    "isotropic" : false
+  },
+  "podzol" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "red_sandstone" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "red_sandstone_stairs" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "sand" : {
+    "isotropic" : false
+  },
+  "sandstone" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "sandstone_stairs" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "snow" : {
+    "isotropic" : false
+  },
+  "snow_layer" : {
+    "isotropic" : false
+  },
+  "sponge" : {
+    "isotropic" : false
+  },
+  "stained_hardened_clay" : {
+    "isotropic" : false
+  },
+  "warped_nylium" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  }
 }
