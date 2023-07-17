@@ -250,8 +250,14 @@
     "birch_sign": {
       "textures": "textures/blocks/birch_planks"
     },
-    "black_glazed_terracotta": {
+    "black_concrete": {
+      "textures": "textures/blocks/black_concrete"
+    },
+		"black_glazed_terracotta": {
       "textures": "textures/blocks/black_glazed_terracotta"
+    },
+    "black_shulker_box": {
+      "textures": "textures/blocks/black_shulker_box"
     },
     "blackstone": {
       "textures": {
@@ -306,8 +312,14 @@
     "blast_furnace_front_off": {
       "textures": "textures/blocks/blast_furnace_front"
     },
-    "blue_glazed_terracotta": {
+    "blue_concrete": {
+      "textures": "textures/blocks/blue_concrete"
+    },
+		"blue_glazed_terracotta": {
       "textures": "textures/blocks/blue_glazed_terracotta"
+    },
+    "blue_shulker_box": {
+      "textures": "textures/blocks/blue_shulker_box"
     },
     "bookshelf_top": {
       "textures": "textures/blocks/bookshelf_top"
@@ -315,8 +327,14 @@
     "brick": {
       "textures": "textures/blocks/bricks"
     },
-    "brown_glazed_terracotta": {
+    "brown_concrete": {
+      "textures": "textures/blocks/brown_concrete"
+    },
+		"brown_glazed_terracotta": {
       "textures": "textures/blocks/brown_glazed_terracotta"
+    },
+    "brown_shulker_box": {
+      "textures": "textures/blocks/brown_shulker_box"
     },
     "campfire_fire": {
       "textures": "textures/blocks/campfire_fire"
@@ -394,6 +412,9 @@
           ]
         }
       ]
+    },
+		"cherry_log_side": {
+      "textures": "textures/blocks/cherry_log"
     },
     "chiseled_bookshelf_side": {
       "textures": "textures/blocks/chiseled_bookshelf/side"
@@ -479,26 +500,6 @@
         "textures/blocks/composter_top",
         "textures/blocks/composter_compost",
         "textures/blocks/composter_ready"
-      ]
-    },
-    "concrete": {
-      "textures": [
-        "textures/blocks/white_concrete",
-        "textures/blocks/orange_concrete",
-        "textures/blocks/magenta_concrete",
-        "textures/blocks/light_blue_concrete",
-        "textures/blocks/yellow_concrete",
-        "textures/blocks/lime_concrete",
-        "textures/blocks/pink_concrete",
-        "textures/blocks/gray_concrete",
-        "textures/blocks/light_gray_concrete",
-        "textures/blocks/cyan_concrete",
-        "textures/blocks/purple_concrete",
-        "textures/blocks/blue_concrete",
-        "textures/blocks/brown_concrete",
-        "textures/blocks/green_concrete",
-        "textures/blocks/red_concrete",
-        "textures/blocks/black_concrete"
       ]
     },
     "concretePowder": {
@@ -627,8 +628,14 @@
     "crimson_trapdoor": {
       "textures": "textures/blocks/crimson_trapdoor"
     },
-    "cyan_glazed_terracotta": {
+    "cyan_concrete": {
+      "textures": "textures/blocks/cyan_concrete"
+    },
+		"cyan_glazed_terracotta": {
       "textures": "textures/blocks/cyan_glazed_terracotta"
+    },
+    "cyan_shulker_box": {
+      "textures": "textures/blocks/cyan_shulker_box"
     },
     "dark_oak_log_side": {
       "textures": "textures/blocks/dark_oak_log"
@@ -2155,11 +2162,23 @@
         ]
       }
     },
-    "gray_glazed_terracotta": {
+    "gray_concrete": {
+      "textures": "textures/blocks/gray_concrete"
+    },
+		"gray_glazed_terracotta": {
       "textures": "textures/blocks/gray_glazed_terracotta"
     },
-    "green_glazed_terracotta": {
+    "gray_shulker_box": {
+      "textures": "textures/blocks/gray_shulker_box"
+    },
+    "green_concrete": {
+      "textures": "textures/blocks/green_concrete"
+    },
+		"green_glazed_terracotta": {
       "textures": "textures/blocks/green_glazed_terracotta"
+    },
+    "green_shulker_box": {
+      "textures": "textures/blocks/green_shulker_box"
     },
     "grindstone_leg": {
       "textures": "textures/blocks/dark_oak_log"
@@ -2322,11 +2341,29 @@
     "lectern_bottom": {
       "textures": "textures/blocks/oak_planks"
     },
+		"light_blue_concrete": {
+      "textures": "textures/blocks/light_blue_concrete"
+    },
     "light_blue_glazed_terracotta": {
       "textures": "textures/blocks/light_blue_glazed_terracotta"
     },
+		"light_blue_shulker_box": {
+      "textures": "textures/blocks/light_blue_shulker_box"
+    },
+		"light_gray_concrete": {
+      "textures": "textures/blocks/light_gray_concrete"
+    },
+		"light_gray_shulker_box": {
+      "textures": "textures/blocks/light_gray_shulker_box"
+    },
+		"lime_concrete": {
+      "textures": "textures/blocks/lime_concrete"
+    },
     "lime_glazed_terracotta": {
       "textures": "textures/blocks/lime_glazed_terracotta"
+    },
+		"lime_shulker_box": {
+      "textures": "textures/blocks/lime_shulker_box"
     },
     "log2": {
       "textures": [
@@ -2688,8 +2725,14 @@
         ]
       }
     },
-    "magenta_glazed_terracotta": {
+    "magenta_concrete": {
+      "textures": "textures/blocks/magenta_concrete"
+    },
+		"magenta_glazed_terracotta": {
       "textures": "textures/blocks/magenta_glazed_terracotta"
+    },
+    "magenta_shulker_box": {
+      "textures": "textures/blocks/magenta_shulker_box"
     },
     "mangrove_log_side" : {
       "textures": "textures/blocks/mangrove_log"
@@ -3172,14 +3215,26 @@
         "textures/blocks/observer_back_on"
       ]
     },
-    "orange_glazed_terracotta": {
+    "orange_concrete": {
+      "textures": "textures/blocks/orange_concrete"
+    },
+		"orange_glazed_terracotta": {
       "textures": "textures/blocks/orange_glazed_terracotta"
+    },
+		"orange_shulker_box": {
+      "textures": "textures/blocks/orange_shulker_box"
     },
     "ice_packed": {
       "textures": "textures/blocks/packed_ice"
     },
-    "pink_glazed_terracotta": {
+    "pink_concrete": {
+      "textures": "textures/blocks/pink_concrete"
+    },
+		"pink_glazed_terracotta": {
       "textures": "textures/blocks/pink_glazed_terracotta"
+    },
+    "pink_shulker_box": {
+      "textures": "textures/blocks/pink_shulker_box"
     },
     "piston_top_normal": {
       "textures": [
@@ -3377,8 +3432,14 @@
         "textures/blocks/attached_pumpkin_stem"
       ]
     },
-    "purple_glazed_terracotta": {
+    "purple_concrete": {
+      "textures": "textures/blocks/purple_concrete"
+    },
+		"purple_glazed_terracotta": {
       "textures": "textures/blocks/purple_glazed_terracotta"
+    },
+    "purple_shulker_box": {
+      "textures": "textures/blocks/shulker_box"
     },
     "quartz_block_bottom": {
       "textures": [
@@ -3468,8 +3529,14 @@
         "textures/blocks/lily_of_the_valley"
       ]
     },
-    "red_glazed_terracotta": {
+    "red_concrete": {
+      "textures": "textures/blocks/red_concrete"
+    },
+		"red_glazed_terracotta": {
       "textures": "textures/blocks/red_glazed_terracotta"
+    },
+    "red_shulker_box": {
+      "textures": "textures/blocks/red_shulker_box"
     },
     "red_nether_brick": {
       "textures": "textures/blocks/red_nether_bricks"
@@ -3563,27 +3630,6 @@
         "textures/blocks/jungle_sapling",
         "textures/blocks/acacia_sapling",
         "textures/blocks/dark_oak_sapling"
-      ]
-    },
-    "shulker_box_top": {
-      "textures": [
-        "textures/blocks/white_shulker_box",
-        "textures/blocks/orange_shulker_box",
-        "textures/blocks/magenta_shulker_box",
-        "textures/blocks/light_blue_shulker_box",
-        "textures/blocks/yellow_shulker_box",
-        "textures/blocks/lime_shulker_box",
-        "textures/blocks/pink_shulker_box",
-        "textures/blocks/gray_shulker_box",
-        "textures/blocks/light_gray_shulker_box",
-        "textures/blocks/cyan_shulker_box",
-        "textures/blocks/purple_shulker_box",
-        "textures/blocks/blue_shulker_box",
-        "textures/blocks/brown_shulker_box",
-        "textures/blocks/green_shulker_box",
-        "textures/blocks/red_shulker_box",
-        "textures/blocks/black_shulker_box",
-        "textures/blocks/shulker_box"
       ]
     },
     "sign": {
@@ -3906,6 +3952,9 @@
     "stonecutter_top": {
       "textures": "textures/blocks/stonecutter_top2"
     },
+		"stripped_cherry_log_side": {
+      "textures": "textures/blocks/stripped_cherry_log"
+    },
     "stripped_crimson_stem_side": {
       "textures": "textures/blocks/stripped_crimson_stem_side"
     },
@@ -3927,6 +3976,15 @@
         "textures/blocks/sunflower_back"
       ]
     },
+		"torchflower_crop": {
+			"textures": [
+				"textures/blocks/plants/torchflower/0",
+				"textures/blocks/plants/torchflower/1"
+			]
+		},
+		"torchflower": {
+			"textures": "textures/blocks/plants/torchflower/2"
+		},
     "trapdoor": {
       "textures": "textures/blocks/oak_trapdoor"
     },
@@ -4014,8 +4072,14 @@
         "textures/blocks/wheat_stage7"
       ]
     },
+		"white_concrete": {
+      "textures": "textures/blocks/white_concrete"
+    },
     "white_glazed_terracotta": {
       "textures": "textures/blocks/white_glazed_terracotta"
+    },
+		"white_shulker_box": {
+      "textures": "textures/blocks/white_shulker_box"
     },
     "wither_rose": {
       "textures": "textures/blocks/wither_rose"
@@ -4053,26 +4117,6 @@
     },
     "wood_spruce": {
       "textures": "textures/blocks/spruce_planks"
-    },
-    "wool": {
-      "textures": [
-        "textures/blocks/white_wool",
-        "textures/blocks/orange_wool",
-        "textures/blocks/magenta_wool",
-        "textures/blocks/light_blue_wool",
-        "textures/blocks/yellow_wool",
-        "textures/blocks/lime_wool",
-        "textures/blocks/pink_wool",
-        "textures/blocks/gray_wool",
-        "textures/blocks/light_gray_wool",
-        "textures/blocks/cyan_wool",
-        "textures/blocks/purple_wool",
-        "textures/blocks/blue_wool",
-        "textures/blocks/brown_wool",
-        "textures/blocks/green_wool",
-        "textures/blocks/red_wool",
-        "textures/blocks/black_wool"
-      ]
     },
     "wool_colored_white": {
       "textures": "textures/blocks/white_wool"
@@ -4140,8 +4184,14 @@
         ]
       }
     },
-    "yellow_glazed_terracotta": {
+    "yellow_concrete": {
+      "textures": "textures/blocks/yellow_concrete"
+    },
+		"yellow_glazed_terracotta": {
       "textures": "textures/blocks/yellow_glazed_terracotta"
+    },
+    "yellow_shulker_box": {
+      "textures": "textures/blocks/yellow_shulker_box"
     }
   }
 }
