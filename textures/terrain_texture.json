@@ -259,6 +259,12 @@
     "black_shulker_box": {
       "textures": "textures/blocks/black_shulker_box"
     },
+		"black_stained_glass": {
+      "textures": "textures/blocks/black_stained_glass"
+    },
+		"black_stained_glass_pane_top": {
+      "textures": "textures/blocks/black_stained_glass_pane_top"
+    },
     "blackstone": {
       "textures": {
         "variations": [
@@ -321,6 +327,12 @@
     "blue_shulker_box": {
       "textures": "textures/blocks/blue_shulker_box"
     },
+		"blue_stained_glass": {
+      "textures": "textures/blocks/blue_stained_glass"
+    },
+		"blue_stained_glass_pane_top": {
+      "textures": "textures/blocks/blue_stained_glass_pane_top"
+    },
     "bookshelf_top": {
       "textures": "textures/blocks/bookshelf_top"
     },
@@ -335,6 +347,12 @@
     },
     "brown_shulker_box": {
       "textures": "textures/blocks/brown_shulker_box"
+    },
+		"brown_stained_glass": {
+      "textures": "textures/blocks/brown_stained_glass"
+    },
+		"brown_stained_glass_pane_top": {
+      "textures": "textures/blocks/brown_stained_glass_pane_top"
     },
     "campfire_fire": {
       "textures": "textures/blocks/campfire_fire"
@@ -636,6 +654,12 @@
     },
     "cyan_shulker_box": {
       "textures": "textures/blocks/cyan_shulker_box"
+    },
+		"cyan_stained_glass": {
+      "textures": "textures/blocks/cyan_stained_glass"
+    },
+		"cyan_stained_glass_pane_top": {
+      "textures": "textures/blocks/cyan_stained_glass_pane_top"
     },
     "dark_oak_log_side": {
       "textures": "textures/blocks/dark_oak_log"
@@ -2171,6 +2195,12 @@
     "gray_shulker_box": {
       "textures": "textures/blocks/gray_shulker_box"
     },
+		"gray_stained_glass": {
+      "textures": "textures/blocks/gray_stained_glass"
+    },
+		"gray_stained_glass_pane_top": {
+      "textures": "textures/blocks/gray_stained_glass_pane_top"
+    },
     "green_concrete": {
       "textures": "textures/blocks/green_concrete"
     },
@@ -2179,6 +2209,12 @@
     },
     "green_shulker_box": {
       "textures": "textures/blocks/green_shulker_box"
+    },
+		"green_stained_glass": {
+      "textures": "textures/blocks/green_stained_glass"
+    },
+		"green_stained_glass_pane_top": {
+      "textures": "textures/blocks/green_stained_glass_pane_top"
     },
     "grindstone_leg": {
       "textures": "textures/blocks/dark_oak_log"
@@ -2350,11 +2386,23 @@
 		"light_blue_shulker_box": {
       "textures": "textures/blocks/light_blue_shulker_box"
     },
+		"light_blue_stained_glass": {
+      "textures": "textures/blocks/light_blue_stained_glass"
+    },
+		"light_blue_stained_glass_pane_top": {
+      "textures": "textures/blocks/light_blue_stained_glass_pane_top"
+    },
 		"light_gray_concrete": {
       "textures": "textures/blocks/light_gray_concrete"
     },
 		"light_gray_shulker_box": {
       "textures": "textures/blocks/light_gray_shulker_box"
+    },
+    "light_gray_stained_glass": {
+      "textures": "textures/blocks/light_gray_stained_glass"
+    },
+		"light_gray_stained_glass_pane_top": {
+      "textures": "textures/blocks/light_gray_stained_glass_pane_top"
     },
 		"lime_concrete": {
       "textures": "textures/blocks/lime_concrete"
@@ -2364,6 +2412,12 @@
     },
 		"lime_shulker_box": {
       "textures": "textures/blocks/lime_shulker_box"
+    },
+		"lime_stained_glass": {
+      "textures": "textures/blocks/lime_stained_glass"
+    },
+		"lime_stained_glass_pane_top": {
+      "textures": "textures/blocks/lime_stained_glass_pane_top"
     },
     "log2": {
       "textures": [
@@ -2733,6 +2787,12 @@
     },
     "magenta_shulker_box": {
       "textures": "textures/blocks/magenta_shulker_box"
+    },
+		"magenta_stained_glass": {
+      "textures": "textures/blocks/magenta_stained_glass"
+    },
+		"magenta_stained_glass_pane_top": {
+      "textures": "textures/blocks/magenta_stained_glass_pane_top"
     },
     "mangrove_log_side" : {
       "textures": "textures/blocks/mangrove_log"
@@ -3224,6 +3284,12 @@
 		"orange_shulker_box": {
       "textures": "textures/blocks/orange_shulker_box"
     },
+		"orange_stained_glass": {
+      "textures": "textures/blocks/orange_stained_glass"
+    },
+		"orange_stained_glass_pane_top": {
+      "textures": "textures/blocks/orange_stained_glass_pane_top"
+    },
     "ice_packed": {
       "textures": "textures/blocks/packed_ice"
     },
@@ -3235,6 +3301,12 @@
     },
     "pink_shulker_box": {
       "textures": "textures/blocks/pink_shulker_box"
+    },
+		"pink_stained_glass": {
+      "textures": "textures/blocks/pink_stained_glass"
+    },
+		"pink_stained_glass_pane_top": {
+      "textures": "textures/blocks/pink_stained_glass_pane_top"
     },
     "piston_top_normal": {
       "textures": [
@@ -3441,6 +3513,12 @@
     "purple_shulker_box": {
       "textures": "textures/blocks/shulker_box"
     },
+		"purple_stained_glass": {
+      "textures": "textures/blocks/purple_stained_glass"
+    },
+		"purple_stained_glass_pane_top": {
+      "textures": "textures/blocks/purple_stained_glass_pane_top"
+    },
     "quartz_block_bottom": {
       "textures": [
         "textures/blocks/quartz_block_top",
@@ -3537,6 +3615,12 @@
     },
     "red_shulker_box": {
       "textures": "textures/blocks/red_shulker_box"
+    },
+		"red_stained_glass": {
+      "textures": "textures/blocks/red_stained_glass"
+    },
+		"red_stained_glass_pane_top": {
+      "textures": "textures/blocks/red_stained_glass_pane_top"
     },
     "red_nether_brick": {
       "textures": "textures/blocks/red_nether_bricks"
@@ -3732,46 +3816,6 @@
         "textures/blocks/green_terracotta",
         "textures/blocks/red_terracotta",
         "textures/blocks/black_terracotta"
-      ]
-    },
-    "stained_glass": {
-      "textures": [
-        "textures/blocks/white_stained_glass",
-        "textures/blocks/orange_stained_glass",
-        "textures/blocks/magenta_stained_glass",
-        "textures/blocks/light_blue_stained_glass",
-        "textures/blocks/yellow_stained_glass",
-        "textures/blocks/lime_stained_glass",
-        "textures/blocks/pink_stained_glass",
-        "textures/blocks/gray_stained_glass",
-        "textures/blocks/light_gray_stained_glass",
-        "textures/blocks/cyan_stained_glass",
-        "textures/blocks/purple_stained_glass",
-        "textures/blocks/blue_stained_glass",
-        "textures/blocks/brown_stained_glass",
-        "textures/blocks/green_stained_glass",
-        "textures/blocks/red_stained_glass",
-        "textures/blocks/black_stained_glass"
-      ]
-    },
-    "stained_glass_pane_top": {
-      "textures": [
-        "textures/blocks/white_stained_glass_pane_top",
-        "textures/blocks/orange_stained_glass_pane_top",
-        "textures/blocks/magenta_stained_glass_pane_top",
-        "textures/blocks/light_blue_stained_glass_pane_top",
-        "textures/blocks/yellow_stained_glass_pane_top",
-        "textures/blocks/lime_stained_glass_pane_top",
-        "textures/blocks/pink_stained_glass_pane_top",
-        "textures/blocks/gray_stained_glass_pane_top",
-        "textures/blocks/light_gray_stained_glass_pane_top",
-        "textures/blocks/cyan_stained_glass_pane_top",
-        "textures/blocks/purple_stained_glass_pane_top",
-        "textures/blocks/blue_stained_glass_pane_top",
-        "textures/blocks/brown_stained_glass_pane_top",
-        "textures/blocks/green_stained_glass_pane_top",
-        "textures/blocks/red_stained_glass_pane_top",
-        "textures/blocks/black_stained_glass_pane_top"
       ]
     },
     "stone": {
@@ -4081,6 +4125,12 @@
 		"white_shulker_box": {
       "textures": "textures/blocks/white_shulker_box"
     },
+		"white_stained_glass": {
+      "textures": "textures/blocks/white_stained_glass"
+    },
+		"white_stained_glass_pane_top": {
+      "textures": "textures/blocks/white_stained_glass_pane_top"
+    },
     "wither_rose": {
       "textures": "textures/blocks/wither_rose"
     },
@@ -4192,6 +4242,12 @@
     },
     "yellow_shulker_box": {
       "textures": "textures/blocks/yellow_shulker_box"
+    },
+		"yellow_stained_glass": {
+      "textures": "textures/blocks/yellow_stained_glass"
+    },
+		"yellow_stained_glass_pane_top": {
+      "textures": "textures/blocks/yellow_stained_glass_pane_top"
     }
   }
 }
