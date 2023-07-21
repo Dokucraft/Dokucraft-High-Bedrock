@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:cauldron",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/models/cauldron"
+      },
+      "geometry": {
+        "default": "geometry.cauldron"
+      },
+      "animations": {
+        "wield": "animation.item.cauldron.wield",
+        "default": "animation.item.cauldron.default"
+      },
+      "scripts": {
+        "animate": [
+          { "wield": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'cauldron'"
+          },
+          { "default": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'cauldron'"
+          }
+        ]
+      },
+      "render_controllers": [ "controller.render.item" ]
+    }
+  }
+}

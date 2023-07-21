@@ -1,0 +1,30 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:soul_campfire",
+      "materials": {
+        "default": "phantom"
+      },
+      "textures": {
+        "default": "textures/models/soul_campfire"
+      },
+      "geometry": {
+        "default": "geometry.soul_campfire"
+      },
+      "animations": {
+        "wield": "animation.item.soul_campfire.wield",
+        "default": "animation.item.soul_campfire.default"
+      },
+      "scripts": {
+        "animate": [
+          { "wield": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'soul_campfire'"
+          },
+          { "default": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'soul_campfire'"
+          }
+        ]
+      },
+      "render_controllers": [ "controller.render.item" ]
+    }
+  }
+}
