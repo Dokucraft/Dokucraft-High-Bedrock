@@ -273,7 +273,7 @@
           "$hotbar_slot_image_size": "$hotbar_elipses_panel_right_art_size",
           // The layering is for cover the grid cap/black border when this panel is visible
           "layer": 2,
-          //Grab the right hand end of the hotbar
+          // Grab the right hand end of the hotbar
           "texture": "textures/ui/mobile_inventory_button"
         }
       },

@@ -9,7 +9,7 @@
       "water_fog_color": "#1C5330"
 		},
 		"basalt_deltas" : {
-			//Unchanged
+			"unchanged": "True",
 			"water_surface_color": "#3F76E4",
       "water_fog_color": "#423E42",
       "fog_color": "#685F70"
@@ -28,7 +28,7 @@
       "water_fog_color": "#074C56"
 		},
 		"cherry_grove" : {
-			//Unchanged
+			"unchanged": "True",
 			"water_surface_color" : "#5DB7EF"
 		},
 		"cold_beach" : {
@@ -54,7 +54,7 @@
       "water_fog_color": "#02586F"
 		},
 		"crimson_forest" : {
-			//Unchanged
+			"unchanged": "True",
 			"water_surface_color": "#96CF9E",
       "water_fog_color": "#96CF9E",
       "fog_color": "#330303"
@@ -70,7 +70,7 @@
       "water_fog_distance": 60
 		},
 		"deep_lukewarm_ocean" : {
-			//Unchanged
+			"unchanged": "True",
       "water_surface_color": "#0D96DB",
       "water_fog_color": "#0E72B9",
       "water_fog_distance": 60
@@ -81,7 +81,7 @@
       "water_fog_distance": 60
 		},
 		"deep_warm_ocean" : {
-			//Unchanged
+			"unchanged": "True",
       "water_surface_color": "#02B0E5",
       "water_fog_color": "#0686CA",
       "water_fog_distance": 60
@@ -177,13 +177,13 @@
       "water_fog_color": "#1C5330"
 		},
 		"lukewarm_ocean" : {
-			//Unchanged
+			"unchanged": "True",
       "water_surface_color": "#0D96DB",
       "water_fog_color": "#5DB6B0",
       "water_fog_distance": 60
 		},
 		"mangrove_swamp" : {
-			//Unchanged
+			"unchanged": "True",
 			"water_surface_color" : "#3A7A6A"
 		},
 		"mega_spruce_taiga" : {
@@ -265,7 +265,7 @@
       "water_fog_color": "#023F52"
 		},
 		"soulsand_valley" : {
-			//Unchanged
+			"unchanged": "True",
       "water_surface_color": "#96CF9E",
       "water_fog_color": "#96CF9E",
       "fog_color": "#1B4745"
@@ -308,14 +308,14 @@
       "fog_color": "#0B080C"
 		},
 		"warm_ocean" : {
-			//Unchanged
+			"unchanged": "True",
       "water_surface_color": "#02B0E5",
       "water_surface_transparency": 0.55,
       "water_fog_color": "#0289D5",
       "water_fog_distance": 60
 		},
 		"warped_forest" : {
-			//Unchanged
+			"unchanged": "True",
 			"water_surface_color": "#96CF9E",
       "water_fog_color": "#96CF9E",
       "fog_color": "#1A051A"

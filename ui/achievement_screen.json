@@ -851,24 +851,6 @@
                 "anchor_to": "bottom_right",
                 "offset": [ "100%+3px", 0 ],
                 "layer": 2
-                // Worlds icons and scores that are not implemented yet. Since they are formatted, keeping this here until we implement the feature
-                //      "controls": [
-                //        {
-                //          "achievement_world_score_value@achievement_world_score_value": {
-                //            "anchor_from": "bottom_right",
-                //            "anchor_to": "bottom_right",
-                //            "offset": [ 0, "100% + 2px" ],
-                //            "layer": 1
-                //          }
-                //        }
-                //      ]
-                //    }
-                //  },
-                //  {
-                //    "worlds_toggle_icon@worlds_toggle_icon": {
-                //      "anchor_from": "bottom_middle",
-                //      "anchor_to": "bottom_middle",
-                //      "offset": [ 0, "14px" ]
               }
             }
           ]
@@ -916,7 +898,7 @@
       {
         "trophy_icon_0@trophy_icon": {
           "layer": 3,
-          "size": [ "78.571428571%y", "100%" ], // scales off of the size of the panel maintaining aspect ratio, x = 11/14y
+          "size": [ "78.571428571%y", "100%" ], // Scales off of the size of the panel maintaining aspect ratio, x = 11/14y
           "color": [ 0.545, 0.745, 0.384 ],
           "clip_direction": "down",
           "controls": [
@@ -933,7 +915,7 @@
       {
         "trophy_icon_1@trophy_icon": {
           "layer": 2,
-          "size": [ "78.5714285%y", "100%" ], // scales off of the size of the panel maintaining aspect ratio, x = 11/14y
+          "size": [ "78.5714285%y", "100%" ], // Scales off of the size of the panel maintaining aspect ratio, x = 11/14y
           "color": [ 1.0, 1.0, 1.0 ]
         }
       },
@@ -947,40 +929,6 @@
       }
     ]
   },
-
-  // UI call disabled until worlds content will be implemented
-  //"worlds_toggle_icon": {
-  //  "type": "panel",
-  //  "controls": [
-  //    {
-  //      "worlds_icon@worlds_icon": {
-  //        "visible": "#world_status_visible",
-  //        "bindings": [
-  //          {
-  //            "binding_name": "#world_status_visible",
-  //            "binding_name_override": "#visible",
-  //            "binding_type": "collection",
-  //            "binding_collection_name": "achievement_list"
-  //          }
-  //        ]
-  //      }
-  //    },
-  //    {
-  //      "worlds_greyed_icon@worlds_greyed_icon": {
-  //        "visible": "#grey_world_status_visible",
-  //        "bindings": [
-  //          {
-  //            "binding_name": "#grey_world_status_visible",
-  //            "binding_name_override": "#visible",
-  //            "binding_type": "collection",
-  //            "binding_collection_name": "achievement_list"
-  //          }
-  //        ]
-  //      }
-  //    }
-  //  ]
-  //},
-
 
   // -----------------------------------------------
   //
@@ -1119,9 +1067,10 @@
 
   // -----------------------------------------------
   //
-  //    screen
+  //    Screen
   //
   // -----------------------------------------------
+	
   "achievement_screen@common.base_screen": {
     "button_mappings": [
       {
