@@ -12,7 +12,7 @@
     "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 ]
   },
   {
-    "flipbook_texture": "textures/blocks/campfire",
+    "flipbook_texture": "textures/blocks/campfire_fire",
     "atlas_tile": "campfire_fire"
   },
   {
@@ -304,8 +304,8 @@
     "atlas_tile": "smoker_front_on"
   },
   {
-    "flipbook_texture": "textures/blocks/soul_campfire",
-    "atlas_tile": "soul_campfire"
+    "flipbook_texture": "textures/blocks/soul_campfire_fire",
+    "atlas_tile": "soul_campfire_fire"
   },
   {
     "flipbook_texture": "textures/blocks/soul_campfire_log_lit",
