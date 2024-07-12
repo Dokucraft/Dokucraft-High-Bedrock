@@ -240,7 +240,15 @@
         "textures/items/monument_map",
         "textures/items/mansion_map",
         "textures/items/nautilus_map",
-        "textures/items/locked_map"
+        "textures/items/locked_map",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_filled",
+        "textures/items/map_trial_chambers"
       ]
     },
     "melon": {
@@ -322,7 +330,11 @@
         "textures/items/potion_bottle_lingering_poison",
         "textures/items/potion_bottle_lingering_wither",
         "textures/items/potion_bottle_lingering_turtleMaster",
-        "textures/items/potion_bottle_lingering_slowFall"
+        "textures/items/potion_bottle_lingering_slowFall",
+        "textures/items/potion_bottle_lingering_windCharged",
+        "textures/items/potion_bottle_lingering_weaving",
+        "textures/items/potion_bottle_lingering_oozing",
+        "textures/items/potion_bottle_lingering_infested"
       ]
     },
     "potion_bottle_splash": {
@@ -352,7 +364,11 @@
         "textures/items/potion_bottle_splash_absorption",
         "textures/items/potion_bottle_splash_saturation",
         "textures/items/potion_bottle_splash_turtleMaster",
-        "textures/items/potion_bottle_splash_slowFall"
+        "textures/items/potion_bottle_splash_slowFall",
+        "textures/items/potion_bottle_splash_windCharged",
+        "textures/items/potion_bottle_splash_weaving",
+        "textures/items/potion_bottle_splash_oozing",
+        "textures/items/potion_bottle_splash_infested"
       ]
     },
     "pufferfish": {

@@ -60,6 +60,9 @@
     "andesite": {
       "textures": "textures/blocks/andesite"
     },
+		"andesite_slab": {
+      "textures": "textures/blocks/andesite"
+    },
     "anvil_base": {
       "textures": [
         "textures/blocks/anvil",
@@ -339,6 +342,9 @@
     "brick": {
       "textures": "textures/blocks/bricks"
     },
+		"brick_slab": {
+      "textures": "textures/blocks/bricks"
+    },
     "brown_concrete": {
       "textures": "textures/blocks/brown_concrete"
     },
@@ -434,6 +440,9 @@
 		"cherry_log_side": {
       "textures": "textures/blocks/cherry_log"
     },
+		"chipped_anvil_top": {
+      "textures": "textures/blocks/chipped_anvil_top"
+    },
     "chiseled_bookshelf_side": {
       "textures": "textures/blocks/chiseled_bookshelf/side"
     },
@@ -463,6 +472,21 @@
     },
     "chiseled_bookshelf_top": {
       "textures": "textures/blocks/chiseled_bookshelf/ends"
+    },
+		"chiseled_quartz_block_top": {
+      "textures": "textures/blocks/chiseled_quartz_block_top"
+    },
+    "chiseled_quartz_block_side": {
+      "textures": "textures/blocks/chiseled_quartz_block"
+    },
+		 "chiseled_red_sandstone": {
+      "textures": "textures/blocks/chiseled_red_sandstone"
+    },
+		"chiseled_sandstone": {
+      "textures": "textures/blocks/chiseled_sandstone"
+    },
+		"chiseled_stone_bricks": {
+      "textures": "textures/blocks/chiseled_stone_bricks"
     },
     "cobbled_deepslate": {
       "textures": {
@@ -552,8 +576,26 @@
         ]
       }
     },
+		"cracked_deepslate_tiles": {
+      "textures": {
+        "variations": [
+          {
+            "path": "textures/blocks/deepslate/tiles/cracked/0"
+          },
+          {
+            "path": "textures/blocks/deepslate/tiles/cracked/1"
+          },
+          {
+            "path": "textures/blocks/deepslate/tiles/cracked/2"
+          }
+        ]
+      }
+    },
     "cracked_nether_bricks": {
       "textures": "textures/blocks/cracked_nether_bricks"
+    },
+		"cracked_stone_bricks": {
+      "textures": "textures/blocks/cracked_stone_bricks"
     },
     "crafting_table_bottom": {
       "textures": "textures/blocks/crafting_table_bottom"
@@ -576,6 +618,12 @@
     "crimson_trapdoor": {
       "textures": "textures/blocks/crimson_trapdoor"
     },
+		"cut_red_sandstone": {
+      "textures": "textures/blocks/cut_red_sandstone"
+    },
+		"cut_sandstone": {
+      "textures": "textures/blocks/cut_sandstone"
+    },
     "cyan_concrete": {
       "textures": "textures/blocks/cyan_concrete"
     },
@@ -590,6 +638,9 @@
     },
 		"cyan_stained_glass_pane_top": {
       "textures": "textures/blocks/cyan_stained_glass_pane_top"
+    },
+		"damaged_anvil_top": {
+      "textures": "textures/blocks/damaged_anvil_top"
     },
     "dark_oak_log_side": {
       "textures": "textures/blocks/dark_oak_log"
@@ -642,9 +693,10 @@
       "textures": "textures/blocks/dark_oak_planks"
     },
     "dark_prismarine": {
-      "textures": [
-        "textures/blocks/dark_prismarine"
-      ]
+      "textures": "textures/blocks/dark_prismarine"
+    },
+		"dark_prismarine_slab": {
+      "textures": "textures/blocks/dark_prismarine"
     },
     "darkoak_sign": {
       "textures": "textures/blocks/dark_oak_planks"
@@ -895,17 +947,20 @@
         ]
       }
     },
-    "cracked_deepslate_tiles": {
+		"dandelion": {
       "textures": {
         "variations": [
           {
-            "path": "textures/blocks/deepslate/tiles/cracked/0"
+            "path": "textures/blocks/plants/dandelion/0"
           },
           {
-            "path": "textures/blocks/deepslate/tiles/cracked/1"
+            "path": "textures/blocks/plants/dandelion/1"
           },
           {
-            "path": "textures/blocks/deepslate/tiles/cracked/2"
+            "path": "textures/blocks/plants/dandelion/2"
+          },
+          {
+            "path": "textures/blocks/plants/dandelion/3"
           }
         ]
       }
@@ -925,6 +980,9 @@
       ]
     },
     "diorite": {
+      "textures": "textures/blocks/diorite"
+    },
+		"diorite_slab": {
       "textures": "textures/blocks/diorite"
     },
     "dirt": {
@@ -1093,6 +1151,9 @@
     "endframe_top": {
       "textures": "textures/blocks/end_portal_frame_top"
     },
+		"end_stone_brick_slab": {
+      "textures": "textures/blocks/end_stone_bricks"
+    },
     "farmland": {
       "textures": [
         "textures/blocks/farmland_moist",
@@ -1140,6 +1201,106 @@
           }
         ]
       }
+    },
+		"flattened_anvil_base": {
+      "textures": "textures/blocks/anvil"
+    },
+    "flattened_anvil_top": {
+      "textures": "textures/blocks/anvil_top"
+    },
+		"flattened_dirt": {
+      "textures": {
+        "variations": [
+					{
+						"path": "textures/blocks/dirt/0",
+						"weight": 440
+					},
+					{
+						"path": "textures/blocks/dirt/1",
+						"weight": 1
+					},
+					{
+						"path": "textures/blocks/dirt/2",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/3",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/4",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/5",
+						"weight": 3
+					},
+					{
+						"path": "textures/blocks/dirt/6",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/7",
+						"weight": 20
+					},
+					{
+						"path": "textures/blocks/dirt/8",
+						"weight": 20
+					}
+        ]
+      }
+    },
+		"flattened_sand": {
+      "textures": {
+        "variations": [
+					{
+						"path": "textures/blocks/sand/0",
+						"weight": 4000
+					},
+					{
+						"path": "textures/blocks/sand/1",
+						"weight": 8
+					},
+					{
+						"path": "textures/blocks/sand/2",
+						"weight": 8
+					},
+					{
+						"path": "textures/blocks/sand/3",
+						"weight": 8
+					},
+					{
+						"path": "textures/blocks/sand/4",
+						"weight": 5
+					},
+					{
+						"path": "textures/blocks/sand/5",
+						"weight": 10
+					},
+					{
+						"path": "textures/blocks/sand/6",
+						"weight": 12
+					},
+					{
+						"path": "textures/blocks/sand/7",
+						"weight": 1
+					},
+					{
+						"path": "textures/blocks/sand/8",
+						"weight": 1
+					},
+					{
+						"path": "textures/blocks/sand/9",
+						"weight": 1
+					}
+        ]
+      }
+    },
+    "flattened_redsandstone": {
+      "textures": "textures/blocks/red_sandstone"
+    },
+    "flattened_sandstone": {
+      "textures": "textures/blocks/sandstone"
     },
     "fletching_table_side1": {
       "textures": {
@@ -1225,6 +1386,9 @@
       }
     },
     "granite": {
+      "textures": "textures/blocks/granite"
+    },
+		"granite_slab": {
       "textures": "textures/blocks/granite"
     },
     "grass_bottom": {
@@ -2264,6 +2428,15 @@
         ]
       }
     },
+		"large_fern_bottom": {
+      "textures": "textures/blocks/large_fern_bottom"
+    },
+    "large_fern_carried": {
+      "textures": "textures/blocks/large_fern_carried"
+    },
+		"large_fern_top": {
+      "textures": "textures/blocks/large_fern_top"
+    },
     "leaves": {
       "textures": [
         "textures/blocks/oak_leaves",
@@ -2307,6 +2480,54 @@
     "lectern_bottom": {
       "textures": "textures/blocks/oak_planks"
     },
+		"light_block_0": {
+      "textures": "textures/items/light_block/0"
+    },
+    "light_block_1": {
+      "textures": "textures/items/light_block/1"
+    },
+    "light_block_2": {
+      "textures": "textures/items/light_block/2"
+    },
+    "light_block_3": {
+      "textures": "textures/items/light_block/3"
+    },
+    "light_block_4": {
+      "textures": "textures/items/light_block/4"
+    },
+    "light_block_5": {
+      "textures": "textures/items/light_block/5"
+    },
+    "light_block_6": {
+      "textures": "textures/items/light_block/6"
+    },
+    "light_block_7": {
+      "textures": "textures/items/light_block/7"
+    },
+    "light_block_8": {
+      "textures": "textures/items/light_block/8"
+    },
+    "light_block_9": {
+      "textures": "textures/items/light_block/9"
+    },
+    "light_block_10": {
+      "textures": "textures/items/light_block/10"
+    },
+    "light_block_11": {
+      "textures": "textures/items/light_block/11"
+    },
+    "light_block_12": {
+      "textures": "textures/items/light_block/12"
+    },
+    "light_block_13": {
+      "textures": "textures/items/light_block/13"
+    },
+    "light_block_14": {
+      "textures": "textures/items/light_block/14"
+    },
+    "light_block_15": {
+      "textures": "textures/items/light_block/15"
+    },
 		"light_blue_concrete": {
       "textures": "textures/blocks/light_blue_concrete"
     },
@@ -2333,6 +2554,18 @@
     },
 		"light_gray_stained_glass_pane_top": {
       "textures": "textures/blocks/light_gray_stained_glass_pane_top"
+    },
+		"lilac_additional": {
+      "textures": "textures/blocks/sunflower_back"
+    },
+    "lilac_bottom": {
+      "textures": "textures/blocks/lilac_bottom"
+    },
+    "lilac_carried": {
+      "textures": "textures/blocks/lilac_top"
+    },
+		"lilac_top": {
+      "textures": "textures/blocks/lilac_top"
     },
 		"lime_concrete": {
       "textures": "textures/blocks/lime_concrete"
@@ -2746,7 +2979,13 @@
         "textures/blocks/stone"
       ]
     },
-    "mossy_stone_brick": {
+		"mossy_cobblestone_slab": {
+      "textures": "textures/blocks/mossy_cobblestone"
+    },
+    "mossy_stone_bricks": {
+      "textures": "textures/blocks/mossy_stone_bricks"
+    },
+		"mossy_stone_brick_slab": {
       "textures": "textures/blocks/mossy_stone_bricks"
     },
     "mushroom_block": {
@@ -3078,6 +3317,9 @@
     "nether_brick": {
       "textures": "textures/blocks/nether_bricks"
     },
+		"nether_brick_slab": {
+      "textures": "textures/blocks/nether_bricks"
+    },
     "nether_shroom_blue": {
       "textures": {
         "variations": [
@@ -3223,6 +3465,27 @@
     "ice_packed": {
       "textures": "textures/blocks/packed_ice"
     },
+		"infested_stone_bricks": {
+      "textures": "textures/blocks/stone_bricks"
+    },
+    "infested_mossy_stone_bricks": {
+      "textures": "textures/blocks/mossy_stone_bricks"
+    },
+    "infested_cracked_stone_bricks": {
+      "textures": "textures/blocks/cracked_stone_bricks"
+    },
+    "infested_chiseled_stone_bricks": {
+      "textures": "textures/blocks/chiseled_stone_bricks"
+    },
+		"peony_bottom": {
+      "textures": "textures/blocks/peony_bottom"
+    },
+    "peony_carried": {
+      "textures": "textures/blocks/peony_top"
+    },
+		"peony_top": {
+      "textures": "textures/blocks/peony_top"
+    },
     "pink_concrete": {
       "textures": "textures/blocks/pink_concrete"
     },
@@ -3254,6 +3517,9 @@
       ]
     },
     "polished_andesite": {
+      "textures": "textures/blocks/polished_andesite"
+    },
+		"polished_andesite_slab": {
       "textures": "textures/blocks/polished_andesite"
     },
     "pointed_dripstone_merge": {
@@ -3394,7 +3660,13 @@
     "polished_diorite": {
       "textures": "textures/blocks/polished_diorite"
     },
+		"polished_diorite_slab": {
+      "textures": "textures/blocks/polished_diorite"
+    },
     "polished_granite": {
+      "textures": "textures/blocks/polished_granite"
+    },
+    "polished_granite_slab": {
       "textures": "textures/blocks/polished_granite"
     },
     "potatoes": {
@@ -3476,6 +3748,12 @@
     "quartz_ore": {
       "textures": "textures/blocks/nether_quartz_ore"
     },
+		"quartz_pillar_top": {
+			"textures": "textures/blocks/quartz_pillar_top"
+		},
+		"quartz_pillar_side": {
+			"textures": "textures/blocks/quartz_pillar"
+		},
     "rail_activator": {
       "textures": "textures/blocks/activator_rail"
     },
@@ -3555,6 +3833,9 @@
     "red_nether_brick": {
       "textures": "textures/blocks/red_nether_bricks"
     },
+		"red_nether_brick_slab": {
+      "textures": "textures/blocks/red_nether_bricks"
+    },
     "redsandstone": {
       "textures": "textures/blocks/red_sandstone"
     },
@@ -3586,6 +3867,15 @@
         "textures/blocks/repeater",
         "textures/blocks/repeater_on"
       ]
+    },
+		"rose_bush_bottom": {
+      "textures": "textures/blocks/rose_bush_bottom"
+    },
+    "rose_bush_carried": {
+      "textures": "textures/blocks/rose_bush_top"
+    },
+		"rose_bush_top": {
+      "textures": "textures/blocks/rose_bush_top"
     },
     "sand": {
       "textures": [
@@ -3636,6 +3926,9 @@
         "textures/blocks/sandstone_top"
       ]
     },
+		"sandstone_slab_side": {
+      "textures":  "textures/blocks/sandstone"
+    },
     "sapling": {
       "textures": [
         "textures/blocks/oak_sapling",
@@ -3663,8 +3956,26 @@
     "smoker_front_off": {
       "textures": "textures/blocks/smoker_front"
     },
+		"smooth_quartz_slab": {
+      "textures": "textures/blocks/quartz_block_bottom"
+    },
+		"smooth_red_sandstone_slab": {
+      "textures": "textures/blocks/red_sandstone_top"
+    },
+		"smooth_sandstone_slab": {
+      "textures": "textures/blocks/sandstone_top"
+    },
     "smooth_stone": {
       "textures": "textures/blocks/smooth_stone"
+    },
+		"smooth_stone_slab_top": {
+      "textures": "textures/blocks/smooth_stone"
+    },
+    "smooth_stone_slab_bottom": {
+      "textures": "textures/blocks/smooth_stone"
+    },
+    "smooth_stone_slab_side": {
+      "textures": "textures/blocks/smooth_stone_slab_side"
     },
     "soul_campfire_fire": {
       "textures": "textures/blocks/soul_campfire_fire"
@@ -3908,6 +4219,12 @@
         "textures/blocks/chiseled_stone_bricks"
       ]
     },
+		"stone_bricks": {
+      "textures": "textures/blocks/stone_bricks"
+    },
+		"stone_brick_slab": {
+      "textures": "textures/blocks/stone_bricks"
+    },
     "stonecutter2_bottom": {
       "textures": "textures/blocks/stonecutter_bottom"
     },
@@ -3950,6 +4267,24 @@
         "textures/blocks/sunflower_back"
       ]
     },
+		"sunflower_bottom": {
+      "textures": "textures/blocks/sunflower_bottom"
+    },
+		"sunflower_carried": {
+      "textures": "textures/blocks/sunflower_front"
+    },
+		"sunflower_top": {
+      "textures": "textures/blocks/sunflower_top"
+    },
+		"tall_grass_bottom": {
+      "textures": "textures/blocks/tall_grass_bottom"
+    },
+    "tall_grass_carried": {
+      "textures": "textures/blocks/tall_grass_carried"
+    },
+		"tall_grass_top": {
+      "textures": "textures/blocks/tall_grass_top"
+    },
 		"torchflower_crop": {
 			"textures": [
 				"textures/blocks/plants/torchflower/0",
@@ -3970,6 +4305,18 @@
     },
     "trip_wire_source": {
       "textures": "textures/blocks/tripwire_hook"
+    },
+		"tuff": {
+			"textures": {
+				"variations": [
+          {
+            "path": "textures/blocks/tuff"
+          },
+          {
+            "path": "textures/blocks/tuff_2"
+          }
+        ]
+      }
     },
     "warped_door_lower": {
       "textures": "textures/blocks/warped_door_bottom"
@@ -4145,24 +4492,6 @@
     },
     "wool_colored_black": {
       "textures": "textures/blocks/black_wool"
-    },
-    "yellow_flower": {
-      "textures": {
-        "variations": [
-          {
-            "path": "textures/blocks/plants/dandelion/0"
-          },
-          {
-            "path": "textures/blocks/plants/dandelion/1"
-          },
-          {
-            "path": "textures/blocks/plants/dandelion/2"
-          },
-          {
-            "path": "textures/blocks/plants/dandelion/3"
-          }
-        ]
-      }
     },
     "yellow_concrete": {
       "textures": "textures/blocks/yellow_concrete"
