@@ -1,7 +1,7 @@
 {
   "format_version" : 2,
   "header" : {
-    "version" : [ 1, 20, 20 ],
+    "version" : [ 1, 21, 20 ],
     "description" : "\u00A79High and Dry\n\u00A76By Dokucraft TSC",
     "name" : "Dokucraft High",
     "uuid" : "4cee5896-6af4-4c76-8ad5-d75c3dd0456a",
@@ -9,7 +9,7 @@
   },
   "modules": [
     {
-      "version" : [ 1, 20, 20 ],
+      "version" : [ 1, 21, 20 ],
       "description" : "\u00A79High and Dry\n\u00A76By Dokucraft TSC",
       "type" : "resources",
       "uuid" : "add21040-ffc9-4d86-b1e8-17649a69fbf5"
