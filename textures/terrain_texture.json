@@ -4637,6 +4637,24 @@
 		"yellow_concrete": {
 			"textures": "textures/blocks/yellow_concrete"
 		},
+		"yellow_flower": {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/plants/dandelion/0"
+					},
+					{
+						"path": "textures/blocks/plants/dandelion/1"
+					},
+					{
+						"path": "textures/blocks/plants/dandelion/2"
+					},
+					{
+						"path": "textures/blocks/plants/dandelion/3"
+					}
+				]
+			}
+		},
 		"yellow_glazed_terracotta": {
 			"textures": "textures/blocks/yellow_glazed_terracotta"
 		},
