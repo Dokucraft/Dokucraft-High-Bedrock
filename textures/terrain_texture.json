@@ -3084,6 +3084,9 @@
 		"mossy_cobblestone_slab": {
 			"textures": "textures/blocks/mossy_cobblestone"
 		},
+		"mossy_stone_brick": {
+			"textures": "textures/blocks/mossy_stone_bricks"
+		},
 		"mossy_stone_bricks": {
 			"textures": "textures/blocks/mossy_stone_bricks"
 		},
