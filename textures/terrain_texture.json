@@ -310,6 +310,12 @@
 		"black_concrete": {
 			"textures": "textures/blocks/black_concrete"
 		},
+		"black_concrete_powder": {
+			"textures": "textures/blocks/black_concrete_powder"
+		},
+		"black_terracotta": {
+      "textures": "textures/blocks/black_terracotta"
+    },
 		"black_glazed_terracotta": {
 			"textures": "textures/blocks/black_glazed_terracotta"
 		},
@@ -378,6 +384,12 @@
 		"blue_concrete": {
 			"textures": "textures/blocks/blue_concrete"
 		},
+		"blue_concrete_powder": {
+			"textures": "textures/blocks/blue_concrete_powder"
+		},
+		"blue_terracotta": {
+      "textures": "textures/blocks/blue_terracotta"
+    },
 		"blue_glazed_terracotta": {
 			"textures": "textures/blocks/blue_glazed_terracotta"
 		},
@@ -405,6 +417,12 @@
 		"brown_concrete": {
 			"textures": "textures/blocks/brown_concrete"
 		},
+		"brown_concrete_powder": {
+			"textures": "textures/blocks/brown_concrete_powder"
+		},
+		"brown_terracotta": {
+      "textures": "textures/blocks/brown_terracotta"
+    },
 		"brown_glazed_terracotta": {
 			"textures": "textures/blocks/brown_glazed_terracotta"
 		},
@@ -687,6 +705,12 @@
 		"cyan_concrete": {
 			"textures": "textures/blocks/cyan_concrete"
 		},
+		"cyan_concrete_powder": {
+			"textures": "textures/blocks/cyan_concrete_powder"
+		},
+		"cyan_terracotta": {
+      "textures": "textures/blocks/cyan_terracotta"
+    },
 		"cyan_glazed_terracotta": {
 			"textures": "textures/blocks/cyan_glazed_terracotta"
 		},
@@ -2349,6 +2373,12 @@
 		"gray_concrete": {
 			"textures": "textures/blocks/gray_concrete"
 		},
+		"gray_concrete_powder": {
+			"textures": "textures/blocks/gray_concrete_powder"
+		},
+		"gray_terracotta": {
+      "textures": "textures/blocks/gray_terracotta"
+    },
 		"gray_glazed_terracotta": {
 			"textures": "textures/blocks/gray_glazed_terracotta"
 		},
@@ -2364,6 +2394,12 @@
 		"green_concrete": {
 			"textures": "textures/blocks/green_concrete"
 		},
+		"green_concrete_powder": {
+			"textures": "textures/blocks/green_concrete_powder"
+		},
+		"green_terracotta": {
+      "textures": "textures/blocks/green_terracotta"
+    },
 		"green_glazed_terracotta": {
 			"textures": "textures/blocks/green_glazed_terracotta"
 		},
@@ -2630,6 +2666,12 @@
 		"light_blue_concrete": {
 			"textures": "textures/blocks/light_blue_concrete"
 		},
+		"light_blue_concrete_powder": {
+			"textures": "textures/blocks/light_blue_concrete_powder"
+		},
+		"light_blue_terracotta": {
+      "textures": "textures/blocks/light_blue_terracotta"
+    },
 		"light_blue_glazed_terracotta": {
 			"textures": "textures/blocks/light_blue_glazed_terracotta"
 		},
@@ -2645,6 +2687,12 @@
 		"light_gray_concrete": {
 			"textures": "textures/blocks/light_gray_concrete"
 		},
+		"light_gray_concrete_powder": {
+			"textures": "textures/blocks/light_gray_concrete_powder"
+		},
+		"light_gray_terracotta": {
+      "textures": "textures/blocks/light_gray_terracotta"
+    },
 		"light_gray_shulker_box": {
 			"textures": "textures/blocks/light_gray_shulker_box"
 		},
@@ -2672,6 +2720,12 @@
 		"lime_concrete": {
 			"textures": "textures/blocks/lime_concrete"
 		},
+		"lime_concrete_powder": {
+			"textures": "textures/blocks/lime_concrete_powder"
+		},
+		"lime_terracotta": {
+      "textures": "textures/blocks/lime_terracotta"
+    },
 		"lime_glazed_terracotta": {
 			"textures": "textures/blocks/lime_glazed_terracotta"
 		},
@@ -3047,6 +3101,12 @@
 		"magenta_concrete": {
 			"textures": "textures/blocks/magenta_concrete"
 		},
+		"magenta_concrete_powder": {
+			"textures": "textures/blocks/magenta_concrete_powder"
+		},
+		"magenta_terracotta": {
+      "textures": "textures/blocks/magenta_terracotta"
+    },
 		"magenta_glazed_terracotta": {
 			"textures": "textures/blocks/magenta_glazed_terracotta"
 		},
@@ -3573,6 +3633,12 @@
 		"orange_concrete": {
 			"textures": "textures/blocks/orange_concrete"
 		},
+		"orange_concrete_powder": {
+			"textures": "textures/blocks/orange_concrete_powder"
+		},
+		"orange_terracotta": {
+      "textures": "textures/blocks/orange_terracotta"
+    },
 		"orange_glazed_terracotta": {
 			"textures": "textures/blocks/orange_glazed_terracotta"
 		},
@@ -3603,6 +3669,12 @@
 		"pink_concrete": {
 			"textures": "textures/blocks/pink_concrete"
 		},
+		"pink_concrete_powder": {
+			"textures": "textures/blocks/pink_concrete_powder"
+		},
+		"pink_terracotta": {
+      "textures": "textures/blocks/pink_terracotta"
+    },
 		"pink_glazed_terracotta": {
 			"textures": "textures/blocks/pink_glazed_terracotta"
 		},
@@ -3829,6 +3901,12 @@
 		"purple_concrete": {
 			"textures": "textures/blocks/purple_concrete"
 		},
+		"purple_concrete_powder": {
+			"textures": "textures/blocks/purple_concrete_powder"
+		},
+		"purple_terracotta": {
+      "textures": "textures/blocks/purple_terracotta"
+    },
 		"purple_glazed_terracotta": {
 			"textures": "textures/blocks/purple_glazed_terracotta"
 		},
@@ -3938,6 +4016,12 @@
 		"red_concrete": {
 			"textures": "textures/blocks/red_concrete"
 		},
+		"red_concrete_powder": {
+			"textures": "textures/blocks/red_concrete_powder"
+		},
+		"red_terracotta": {
+      "textures": "textures/blocks/red_terracotta"
+    },
 		"red_glazed_terracotta": {
 			"textures": "textures/blocks/red_glazed_terracotta"
 		},
@@ -4068,6 +4152,9 @@
 		"silver_glazed_terracotta": {
 			"textures": "textures/blocks/light_gray_glazed_terracotta"
 		},
+		"slime_block": {
+      "textures": "textures/blocks/slime_block"
+    },
 		"smoker": {
 			"textures": [
 				"textures/blocks/smoker_front",
@@ -4537,6 +4624,12 @@
 		"white_concrete": {
 			"textures": "textures/blocks/white_concrete"
 		},
+		"white_concrete_powder": {
+			"textures": "textures/blocks/white_concrete_powder"
+		},
+		"white_terracotta": {
+      "textures": "textures/blocks/white_terracotta"
+    },
 		"white_glazed_terracotta": {
 			"textures": "textures/blocks/white_glazed_terracotta"
 		},
@@ -4640,6 +4733,12 @@
 		"yellow_concrete": {
 			"textures": "textures/blocks/yellow_concrete"
 		},
+		"yellow_concrete_powder": {
+			"textures": "textures/blocks/yellow_concrete_powder"
+		},
+		"yellow_terracotta": {
+      "textures": "textures/blocks/yellow_terracotta"
+    },
 		"yellow_flower": {
 			"textures": {
 				"variations": [
