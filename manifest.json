@@ -4,7 +4,7 @@
     "version" : [ 1, 21, 20 ],
     "description" : "\u00A79High and Dry\n\u00A76By Dokucraft TSC",
     "name" : "Dokucraft High",
-    "uuid" : "4cee5896-6af4-4c76-8ad5-d75c3dd0456a",
+    "uuid" : "a37e6f07-710d-41eb-8f63-102f965ea884",
     "min_engine_version": [ 1, 16, 0 ]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "version" : [ 1, 21, 20 ],
       "description" : "\u00A79High and Dry\n\u00A76By Dokucraft TSC",
       "type" : "resources",
-      "uuid" : "add21040-ffc9-4d86-b1e8-17649a69fbf5"
+      "uuid" : "817e58e7-1772-4031-a042-2712f03739d4"
     }
   ]
 }
