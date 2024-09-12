@@ -699,7 +699,13 @@
 		"cut_red_sandstone": {
 			"textures": "textures/blocks/cut_red_sandstone"
 		},
+		"cut_red_sandstone_slab_side": {
+			"textures": "textures/blocks/cut_red_sandstone"
+		},
 		"cut_sandstone": {
+			"textures": "textures/blocks/cut_sandstone"
+		},
+		"cut_sandstone_slab_side": {
 			"textures": "textures/blocks/cut_sandstone"
 		},
 		"cyan_concrete": {
@@ -4043,6 +4049,12 @@
 				"textures/blocks/red_sandstone_top"
 			]
 		},
+		"red_sandstone_slab_side": {
+			"textures": "textures/blocks/red_sandstone"
+		},
+		"red_sandstone_wall": {
+      "textures": "textures/blocks/red_sandstone"
+    },
 		"redstone_lamp_off": {
 			"textures": "textures/blocks/redstone_lamp"
 		},
@@ -4128,6 +4140,12 @@
 		"sandstone_slab_side": {
 			"textures":	"textures/blocks/sandstone"
 		},
+		"sandstone_slab_side": {
+			"textures":	"textures/blocks/sandstone"
+		},
+		"sandstone_wall": {
+      "textures": "textures/blocks/sandstone"
+    },
 		"sapling": {
 			"textures": [
 				"textures/blocks/oak_sapling",
