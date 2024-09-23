@@ -4047,6 +4047,9 @@
 		"red_nether_brick_slab": {
 			"textures": "textures/blocks/red_nether_bricks"
 		},
+		"red_nether_brick_wall": {
+			"textures": "textures/blocks/red_nether_bricks"
+		},
 		"redsandstone": {
 			"textures": "textures/blocks/red_sandstone"
 		},
