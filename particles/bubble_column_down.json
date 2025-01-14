@@ -46,7 +46,7 @@
             "base_UV": [ 0, 82 ],
             "size_UV": [ 16, 16 ],
             "step_UV": [ 16, 0 ],
-            "frames_per_second": 1,
+            "frames_per_second": 0.5,
             "max_frame": 8,
             "stretch_to_lifetime": true,
             "loop": false
