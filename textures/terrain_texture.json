@@ -441,6 +441,12 @@
 		"brown_stained_glass_pane_top": {
 			"textures": "textures/blocks/brown_stained_glass_pane_top"
 		},
+		"cactus_flower": {
+			"textures": [
+				"textures/blocks/cactus_flower",
+				"textures/blocks/cactus_flower_1"
+			]
+    },
 		"campfire_fire": {
 			"textures": "textures/blocks/campfire_fire"
 		},
