@@ -4211,6 +4211,18 @@
 		"rose_bush_top": {
 			"textures": "textures/blocks/rose_bush_top"
 		},
+		"resin_bricks": {
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/resin_bricks/0"
+					},
+					{
+						"path": "textures/blocks/resin_bricks/1"
+					}
+				]
+			}
+		},
 		"sand": {
 			"textures": [
 				{
