@@ -13,18 +13,16 @@
         "default": "geometry.campfire"
       },
       "animations": {
-        "wield": "animation.item.campfire.wield",
-        "default": "animation.item.campfire.default"
+        "wield": "animation.item.block_model.wield",
+        "default": "animation.item.block_model.default"
       },
       "scripts": {
         "animate": [
-          { "wield": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'campfire'"
-          },
-          { "default": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'campfire'"
-          }
+          {"wield": "c.is_first_person && c.item_slot == 'main_hand'"},
+          {"default": "!c.is_first_person && c.item_slot == 'main_hand'"}
         ]
       },
-      "render_controllers": [ "controller.render.item" ]
+      "render_controllers": ["controller.render.item"]
     }
   }
 }

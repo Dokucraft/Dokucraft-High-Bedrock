@@ -3,8 +3,8 @@
   "render_controllers": {
     "controller.render.item": {
       "geometry": "geometry.default",
-      "materials": [ { "*": "material.default" } ],
-      "textures": [ "texture.default" ]
+      "materials": [{"*": "material.default"}],
+      "textures": ["texture.default"]
     }
   }
 }

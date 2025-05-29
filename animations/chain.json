@@ -1,0 +1,24 @@
+{
+	"format_version": "1.10",
+	"animations": {
+		"animation.item.chain.wield": {
+			"loop": true,
+			"bones": {
+				"rightitem": {
+					"rotation": [25, 55, -35],
+					"position": [-5, 4, 3],
+					"scale": [1, 1, 1]
+				}
+			}
+		},
+		"animation.item.chain.default": {
+			"loop": true,
+			"bones": {
+				"rightitem": {
+					"position": [0, 2, 0.25],
+					"scale": [1.25, 1.25, 1.25]
+				}
+			}
+		}
+	}
+}

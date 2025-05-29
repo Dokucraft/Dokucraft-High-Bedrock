@@ -2,19 +2,19 @@
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "minecraft:breeze_rod",
+			"identifier": "minecraft:chain",
 			"materials": {
 				"default": "entity_alphatest"
 			},
 			"textures": {
-				"default": "textures/items/breeze_rod"
+				"default": "textures/models/chain"
 			},
 			"geometry": {
-				"default": "geometry.large_item"
+				"default": "geometry.chain"
 			},
-			"animations": {
-        "wield": "animation.item.large_item.wield",
-        "default": "animation.item.large_item.default"
+      "animations": {
+        "wield": "animation.item.chain.wield",
+        "default": "animation.item.chain.default"
       },
       "scripts": {
         "animate": [

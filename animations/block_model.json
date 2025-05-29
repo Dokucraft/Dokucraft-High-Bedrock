@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10",
+	"animations": {
+		"animation.item.block_model.wield": {
+			"loop": true,
+			"bones": {
+				"rightitem": {
+					"rotation": [85, 55, -35],
+					"position": [1, 1, 1],
+					"scale": [0.5, 0.5, 0.5]
+				}
+			}
+		},
+		"animation.item.block_model.default": {
+			"loop": true,
+			"bones": {
+				"rightitem": {
+					"rotation": [-1, 0, 0],
+					"position": [0, -5, -5],
+					"scale": [0.5, 0.5, 0.5]
+				}
+			}
+		}
+	}
+}
