@@ -74,6 +74,79 @@
           ]
         }
       },
+			// For when we are showing the Locator Bar instead of the XP bar
+      {
+        "resizing_hotbar_locator_bar": {
+          "type": "panel",
+          "size": [ "100%c", 5 ],
+          "controls": [
+            {
+              "size_owner": {
+                "type": "panel",
+                "size": [ "100%c", "100%c" ],
+                "controls": [
+                  {
+                    "hotbar@hotbar_chooser": {
+                      "offset": [ 4, 16 ],
+                      "bindings": [
+                        {
+                          "binding_name": "(not #is_spectator_mode)",
+                          "binding_name_override": "#visible"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "size_without_hotbar": {
+                      "type": "panel",
+                      "size": [ 180, 5 ],
+                      "bindings": [
+                        {
+                          "binding_name": "#is_spectator_mode",
+                          "binding_name_override": "#visible"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "horse_jump_rend@horse_jump_renderer": {
+                "anchor_from": "bottom_middle",
+                "anchor_to": "bottom_middle",
+                "size": [ "100%sm", 5 ],
+                "replaced_while_inactive": true
+              }
+            },
+            {
+              "dash_rend@dash_renderer": {
+                "anchor_from": "bottom_middle",
+                "anchor_to": "bottom_middle",
+                "size": [ "100%sm", 5 ],
+                "replaced_while_inactive": true
+              }
+            },
+            {
+              "locator_bar@locator_bar": {
+                "size": [ "100%sm", 5 ],
+                "anchor_from": "bottom_middle",
+                "anchor_to": "bottom_middle",
+                "layer": 10
+              }
+            },
+            {
+              "progress_text_label@progress_text_label": {}
+            }
+          ],
+          "bindings": [
+            {
+              "binding_name": "#hotbar_with_locator_bar",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
       {
         "item_text_factory": {
           "size": [ 100, 10 ],
