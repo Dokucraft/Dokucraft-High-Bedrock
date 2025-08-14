@@ -71,6 +71,11 @@
     "flipbook_texture": "textures/blocks/conduit_wind_vertical",
     "atlas_tile": "conduit_wind_vertical"
   },
+	{
+    "flipbook_texture": "textures/blocks/copper_torch",
+    "atlas_tile": "copper_torch",
+    "ticks_per_frame": 2
+  },
   {
     "flipbook_texture": "textures/blocks/huge_fungus/crimson_log_side",
     "atlas_tile": "crimson_log_side",
