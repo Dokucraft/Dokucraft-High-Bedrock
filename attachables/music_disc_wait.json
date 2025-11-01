@@ -3,23 +3,23 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "minecraft:breeze_rod",
+      "identifier": "minecraft:music_disc_wait",
       "render_controllers": ["controller.render.item_default"],
       "materials": {
         "default": "entity_alphatest",
         "enchanted": "entity_alphatest_glint"
       },
       "textures": {
-        "default": "textures/items/breeze_rod",
+        "default": "textures/items/record_wait",
         "enchanted": "textures/misc/enchanted_item_glint",
-        "item": "textures/items/breeze_rod"
+        "item": "textures/items/record_wait"
       },
       "geometry": {
         "default": "geometry.item_size"
 			},
 			"animations": {
-				"first_person_hold": "animation.player_item_rod.first_person_hold_rod",
-				"third_person_hold": "animation.player_item_rod.third_person_hold_rod"
+				"first_person_hold": "animation.player_item.first_person_hold",
+				"third_person_hold": "animation.player_item.third_person_hold"
 			},
 			"scripts": {
 				"animate": [
