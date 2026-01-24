@@ -3,7 +3,7 @@
   "minecraft:client_entity": {
     "description": {
       "identifier": "minecraft:endermite",
-      "materials": { "default": "phantom" },
+      "materials": { "default": "phantom" }
     }
   }
 }
