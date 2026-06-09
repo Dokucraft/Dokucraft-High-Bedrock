@@ -98,7 +98,8 @@
         "textures/items/pufferfish_bucket",
         "textures/items/powder_snow_bucket",
         "textures/items/axolotl_bucket",
-        "textures/items/tadpole_bucket"
+        "textures/items/tadpole_bucket",
+        "textures/items/sulfur_cube_bucket"
       ]
     },
     "carrot_golden": {
