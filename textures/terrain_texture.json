@@ -1181,7 +1181,19 @@
 			"textures": "textures/blocks/podzol_side"
 		},
 		"dirt_podzol_top": {
-			"textures": "textures/blocks/podzol_top"
+			"textures": {
+				"variations": [
+					{
+						"path": "textures/blocks/podzol_top/0"
+					},
+					{
+						"path": "textures/blocks/podzol_top/1"
+					},
+					{
+						"path": "textures/blocks/podzol_top/2"
+					}
+				]
+			}
 		},
 		"dirt_with_roots": {
 			"textures": "textures/blocks/rooted_dirt"
