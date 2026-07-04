@@ -66,13 +66,37 @@
   "lava" : {
     "isotropic" : false
   },
-  "leaves" : {
+  "oak_leaves" : {
     "isotropic" : {
       "down" : false,
       "up" : false
     }
   },
-  "leaves2" : {
+	"spruce_leaves" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+	"birch_leaves" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+	"jungle_leaves" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+  "acacia_leaves" : {
+    "isotropic" : {
+      "down" : false,
+      "up" : false
+    }
+  },
+	"dark_oak_leaves" : {
     "isotropic" : {
       "down" : false,
       "up" : false
@@ -135,7 +159,52 @@
   "sponge" : {
     "isotropic" : false
   },
-  "stained_hardened_clay" : {
+  "black_terracotta" : {
+    "isotropic" : false
+  },
+	"blue_terracotta" : {
+    "isotropic" : false
+  },
+	"brown_terracotta" : {
+    "isotropic" : false
+  },
+	"cyan_terracotta" : {
+    "isotropic" : false
+  },
+	"gray_terracotta" : {
+    "isotropic" : false
+  },
+	"green_terracotta" : {
+    "isotropic" : false
+  },
+	"light_blue_terracotta" : {
+    "isotropic" : false
+  },
+	"light_gray_terracotta" : {
+    "isotropic" : false
+  },
+	"lime_terracotta" : {
+    "isotropic" : false
+  },
+	"magenta_terracotta" : {
+    "isotropic" : false
+  },
+	"orange_terracotta" : {
+    "isotropic" : false
+  },
+	"pink_terracotta" : {
+    "isotropic" : false
+  },
+	"purple_terracotta" : {
+    "isotropic" : false
+  },
+	"red_terracotta" : {
+    "isotropic" : false
+  },
+	"white_terracotta" : {
+    "isotropic" : false
+  },
+	"yellow_terracotta" : {
     "isotropic" : false
   },
   "warped_nylium" : {
