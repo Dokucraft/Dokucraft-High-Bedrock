@@ -4724,64 +4724,6 @@
 		"warped_trapdoor": {
 			"textures": "textures/blocks/warped_trapdoor"
 		},
-		"web": {
-			"textures": {
-				"variations": [
-					{
-						"path": "textures/blocks/cobweb/0",
-						"weight": 7.70
-					},
-					{
-						"path": "textures/blocks/cobweb/1",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/2",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/3",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/4",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/5",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/6",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/7",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/8",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/9",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/10",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/11",
-						"weight": 7.69
-					},
-					{
-						"path": "textures/blocks/cobweb/12",
-						"weight": 7.69
-					}
-				]
-			}
-		},
 		"wheat": {
 			"textures": [
 				"textures/blocks/wheat_stage0",
