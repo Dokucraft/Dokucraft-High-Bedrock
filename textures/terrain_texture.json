@@ -2360,6 +2360,10 @@
 					"overlay_color" : "#778272",
 					"path": "textures/blocks/grass_block_side"
 				},
+				{
+					"overlay_color" : "#DF6827",
+					"path": "textures/blocks/grass_block_side"
+				},
 				"textures/blocks/grass_block_snow"
 			]
 		},
@@ -4797,38 +4801,8 @@
 		"wood_spruce": {
 			"textures": "textures/blocks/spruce_planks"
 		},
-		"wool_colored_white": {
-			"textures": "textures/blocks/white_wool"
-		},
-		"wool_colored_orange": {
-			"textures": "textures/blocks/orange_wool"
-		},
-		"wool_colored_magenta": {
-			"textures": "textures/blocks/magenta_wool"
-		},
-		"wool_colored_light_blue": {
-			"textures": "textures/blocks/light_blue_wool"
-		},
-		"wool_colored_yellow": {
-			"textures": "textures/blocks/yellow_wool"
-		},
-		"wool_colored_lime": {
-			"textures": "textures/blocks/lime_wool"
-		},
-		"wool_colored_pink": {
-			"textures": "textures/blocks/pink_wool"
-		},
-		"wool_colored_gray": {
-			"textures": "textures/blocks/gray_wool"
-		},
-		"wool_colored_silver": {
-			"textures": "textures/blocks/light_gray_wool"
-		},
-		"wool_colored_cyan": {
-			"textures": "textures/blocks/cyan_wool"
-		},
-		"wool_colored_purple": {
-			"textures": "textures/blocks/purple_wool"
+		"wool_colored_black": {
+			"textures": "textures/blocks/black_wool"
 		},
 		"wool_colored_blue": {
 			"textures": "textures/blocks/blue_wool"
@@ -4836,14 +4810,188 @@
 		"wool_colored_brown": {
 			"textures": "textures/blocks/brown_wool"
 		},
+		"wool_colored_cyan": {
+			"textures": "textures/blocks/cyan_wool"
+		},
+		"wool_colored_gray": {
+			"textures": "textures/blocks/gray_wool"
+		},
 		"wool_colored_green": {
 			"textures": "textures/blocks/green_wool"
+		},
+		"wool_colored_light_blue": {
+			"textures": "textures/blocks/light_blue_wool"
+		},
+		"wool_colored_lime": {
+			"textures": "textures/blocks/lime_wool"
+		},
+		"wool_colored_magenta": {
+			"textures": "textures/blocks/magenta_wool"
+		},
+		"wool_colored_orange": {
+			"textures": "textures/blocks/orange_wool"
+		},
+		"wool_colored_pink": {
+			"textures": "textures/blocks/pink_wool"
+		},
+		"wool_colored_purple": {
+			"textures": "textures/blocks/purple_wool"
 		},
 		"wool_colored_red": {
 			"textures": "textures/blocks/red_wool"
 		},
-		"wool_colored_black": {
+		"wool_colored_silver": {
+			"textures": "textures/blocks/light_gray_wool"
+		},
+		"wool_colored_white": {
+			"textures": "textures/blocks/white_wool"
+		},
+		"wool_colored_yellow": {
+			"textures": "textures/blocks/yellow_wool"
+		},
+		"black_wool_slab": {
 			"textures": "textures/blocks/black_wool"
+		},
+		"blue_wool_slab": {
+			"textures": "textures/blocks/blue_wool"
+		},
+		"brown_wool_slab": {
+			"textures": "textures/blocks/brown_wool"
+		},
+		"cyan_wool_slab": {
+			"textures": "textures/blocks/cyan_wool"
+		},
+		"gray_wool_slab": {
+			"textures": "textures/blocks/gray_wool"
+		},
+		"green_wool_slab": {
+			"textures": "textures/blocks/green_wool"
+		},
+		"light_blue_wool_slab": {
+			"textures": "textures/blocks/light_blue_wool"
+		},
+		"light_gray_wool_slab": {
+			"textures": "textures/blocks/light_gray_wool"
+		},
+		"lime_wool_slab": {
+			"textures": "textures/blocks/lime_wool"
+		},
+		"magenta_wool_slab": {
+			"textures": "textures/blocks/magenta_wool"
+		},
+		"orange_wool_slab": {
+			"textures": "textures/blocks/orange_wool"
+		},
+		"pink_wool_slab": {
+			"textures": "textures/blocks/pink_wool"
+		},
+		"purple_wool_slab": {
+			"textures": "textures/blocks/purple_wool"
+		},
+		"red_wool_slab": {
+			"textures": "textures/blocks/red_wool"
+		},
+		"white_wool_slab": {
+			"textures": "textures/blocks/white_wool"
+		},
+		"yellow_wool_slab": {
+			"textures": "textures/blocks/yellow_wool"
+		},
+		"black_wool_double_slab": {
+			"textures": "textures/blocks/black_wool"
+		},
+		"blue_wool_double_slab": {
+			"textures": "textures/blocks/blue_wool"
+		},
+		"brown_wool_double_slab": {
+			"textures": "textures/blocks/brown_wool"
+		},
+		"cyan_wool_double_slab": {
+			"textures": "textures/blocks/cyan_wool"
+		},
+		"gray_wool_double_slab": {
+			"textures": "textures/blocks/gray_wool"
+		},
+		"green_wool_double_slab": {
+			"textures": "textures/blocks/green_wool"
+		},
+		"light_blue_wool_double_slab": {
+			"textures": "textures/blocks/light_blue_wool"
+		},
+		"light_gray_wool_double_slab": {
+			"textures": "textures/blocks/light_gray_wool"
+		},
+		"lime_wool_double_slab": {
+			"textures": "textures/blocks/lime_wool"
+		},
+		"magenta_wool_double_slab": {
+			"textures": "textures/blocks/magenta_wool"
+		},
+		"orange_wool_double_slab": {
+			"textures": "textures/blocks/orange_wool"
+		},
+		"pink_wool_double_slab": {
+			"textures": "textures/blocks/pink_wool"
+		},
+		"purple_wool_double_slab": {
+			"textures": "textures/blocks/purple_wool"
+		},
+		"red_wool_double_slab": {
+			"textures": "textures/blocks/red_wool"
+		},
+		"white_wool_double_slab": {
+			"textures": "textures/blocks/white_wool"
+		},
+		"yellow_wool_double_slab": {
+			"textures": "textures/blocks/yellow_wool"
+		},
+		"black_wool_stairs": {
+			"textures": "textures/blocks/black_wool"
+		},
+		"blue_wool_stairs": {
+			"textures": "textures/blocks/blue_wool"
+		},
+		"brown_wool_stairs": {
+			"textures": "textures/blocks/brown_wool"
+		},
+		"cyan_wool_stairs": {
+			"textures": "textures/blocks/cyan_wool"
+		},
+		"gray_wool_stairs": {
+			"textures": "textures/blocks/gray_wool"
+		},
+		"green_wool_stairs": {
+			"textures": "textures/blocks/green_wool"
+		},
+		"light_blue_wool_stairs": {
+			"textures": "textures/blocks/light_blue_wool"
+		},
+		"light_gray_wool_stairs": {
+			"textures": "textures/blocks/light_gray_wool"
+		},
+		"lime_wool_stairs": {
+			"textures": "textures/blocks/lime_wool"
+		},
+		"magenta_wool_stairs": {
+			"textures": "textures/blocks/magenta_wool"
+		},
+		"orange_wool_stairs": {
+			"textures": "textures/blocks/orange_wool"
+		},
+		"pink_wool_stairs": {
+			"textures": "textures/blocks/pink_wool"
+		},
+		"purple_wool_stairs": {
+			"textures": "textures/blocks/purple_wool"
+		},
+		"red_wool_stairs": {
+			"textures": "textures/blocks/red_wool"
+		},
+		"white_wool_stairs": {
+			"textures": "textures/blocks/white_wool"
+		},
+		"yellow_wool_stairs": {
+			"textures": "textures/blocks/yellow_wool"
 		},
 		"yellow_concrete": {
 			"textures": "textures/blocks/yellow_concrete"
