@@ -3992,6 +3992,9 @@
 		"polished_granite_slab": {
 			"textures": "textures/blocks/polished_granite"
 		},
+		"poplar_log_side": {
+      "textures": "textures/blocks/poplar_log"
+    },
 		"poppy": {
 			"textures": "textures/blocks/poppy"
 		},
@@ -4647,6 +4650,9 @@
 		"stripped_pale_oak_log_side": {
       "textures": "textures/blocks/stripped_pale_oak_log"
     },
+		"stripped_poplar_log_side": {
+			"textures": "textures/blocks/stripped_poplar_log"
+		},
 		"stripped_warped_stem_side": {
 			"textures": "textures/blocks/stripped_warped_stem"
 		},
