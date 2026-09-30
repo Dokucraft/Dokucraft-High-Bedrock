@@ -8,14 +8,14 @@
         "background": {
           "$layer|default": -1,
           "variables": [{
-            "requires": "($is_realm_slot or $realm_no_world_edit)",
+            "requires": "$realm_no_world_edit",
             "$layer": -2
           }],
           "type": "image",
           "texture": "textures/ui/White",
           "keep_ratio": false,
           "size": [ "100%", "100%sm" ],
-          "color": [ 0.04, 0.12, 0.16 ],
+          "color": [ 0.129, 0.098, 0.078 ],
           "offset": [ 0, 0 ],
           "layer": "$layer",
           "anchor_from": "top_left",
@@ -60,9 +60,11 @@
           "control_ids": {
             "purchase_failed": "@realms_create.popup_dialog__purchase_failed",
             "purchase_in_progress": "@realms_create.popup_dialog__purchase_in_progress",
-            "share_by_link": "@realms_allowlist.popup_dialog__share_by_link",
-            "options_modal": "@realms_allowlist.popup_dialog__options",
-            "backups_modal": "@realms_settings.popup_dialog__backups"
+            "backups_modal": "@realms_settings.popup_dialog__backups",
+            "save_options_modal": "@realms_settings.popup_dialog__save_options",
+            "sign_out_fail": "@general_section.sign_out_fail_popup",
+            "edu_onedrive_error": "@general_section.edu_cloud_onedrive_error_popup",
+            "realms_storage_free_up_space": "@realms_settings.popup_dialog__free_up_space"
           }
         }
       }
