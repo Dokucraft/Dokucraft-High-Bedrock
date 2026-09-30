@@ -236,28 +236,6 @@
         "textures/items/copper_leggings"
       ]
     },
-    "map_empty": {
-      "textures": "textures/items/map"
-    },
-    "map_filled": {
-      "textures": [
-        "textures/items/filled_map",
-        "textures/items/filled_map",
-        "textures/items/filled_map",
-        "textures/items/monument_map",
-        "textures/items/mansion_map",
-        "textures/items/nautilus_map",
-        "textures/items/locked_map",
-        "textures/items/map_filled",
-        "textures/items/map_filled",
-        "textures/items/map_filled",
-        "textures/items/map_filled",
-        "textures/items/map_filled",
-        "textures/items/map_filled",
-        "textures/items/map_filled",
-        "textures/items/map_trial_chambers"
-      ]
-    },
     "melon": {
       "textures": "textures/items/melon_slice"
     },
